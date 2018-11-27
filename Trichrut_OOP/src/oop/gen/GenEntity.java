@@ -20,7 +20,7 @@ public abstract class GenEntity {
 		return radom;
 	}
 
-	public abstract  ArrayList<ThucThe> sinh(int amount);
+	public abstract  ArrayList<ThucThe> generate(int amount);
 	
 }
 

@@ -9,7 +9,7 @@ public class GenPerson extends GenEntity {
 
 	private ArrayList<String> listJob;
 
-	public ArrayList<ThucThe> sinh(int amount) {
+	public ArrayList<ThucThe> generate(int amount) {
 		ArrayList<ThucThe> listPerson = new  ArrayList<>() ;
 		
 		int i = 0;
