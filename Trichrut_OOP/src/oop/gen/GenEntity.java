@@ -7,13 +7,13 @@ import oop.model.NguonGoc;
 import oop.model.ThucThe;
 
 
-public abstract class SinhThucThe {
+public abstract class GenEntity {
 
 	protected ArrayList<String> listName;
 	protected ArrayList<NguonGoc> listNguon;
 	protected final Random RANDOM = new Random();
 
-	protected <T> T getRadom(ArrayList<T> list) {
+	protected <T> T getRandom(ArrayList<T> list) {
 		// TODO Auto-generated method stub
 		int rdIndex = RANDOM.nextInt(list.size());
 		T radom = list.get(rdIndex);
@@ -21,6 +21,7 @@ public abstract class SinhThucThe {
 	}
 
 	public abstract  ArrayList<ThucThe> sinh(int amount);
+	
 }
 
 

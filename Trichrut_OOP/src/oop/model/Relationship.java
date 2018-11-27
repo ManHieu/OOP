@@ -1,6 +1,6 @@
 package oop.model;
 
-public class QuanHe {
+public class Relationship {
 	
 	private ThucThe tt1, tt2;
 	private String quanHe;

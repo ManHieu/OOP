@@ -5,7 +5,7 @@ import oop.model.NguonGoc;
 import oop.model.Person;
 import oop.model.ThucThe;
 
-public class SinhNguoi extends SinhThucThe {
+public class GenPerson extends GenEntity {
 
 	private ArrayList<String> listJob;
 
@@ -14,9 +14,9 @@ public class SinhNguoi extends SinhThucThe {
 		
 		int i = 0;
 		while (i <= amount) {
-			String name = getRadom(listName);
-			String job = getRadom(listJob);
-			NguonGoc  nguonGoc = getRadom(listNguon);
+			String name = getRandom(listName);
+			String job = getRandom(listJob);
+			NguonGoc  nguonGoc = getRandom(listNguon);
 			int tuoi = RANDOM.nextInt(150);
 			String ID = "PERSON" + i;
 			

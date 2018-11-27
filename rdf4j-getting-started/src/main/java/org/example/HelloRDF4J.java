@@ -16,18 +16,22 @@ import org.eclipse.rdf4j.rio.RDFFormat;
 import org.eclipse.rdf4j.rio.Rio;
 import org.eclipse.rdf4j.sail.memory.MemoryStore;
 
+import virtuoso.rdf4j.driver.VirtuosoRepository;
+
 
 public class HelloRDF4J {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		Repository rep = new SailRepository(new MemoryStore());
+		Repository rep = new VirtuosoRepository("jdbc:virtuoso://localhost:1111", "dba", "dba");
 		
 		rep.initialize();
 		
 		String namespace = "http://example.org/";
 		ValueFactory f = rep.getValueFactory();
 		IRI john = f.createIRI(namespace,"john");
+		
+		
 		
 		try(RepositoryConnection conn = rep.getConnection()){
 			
