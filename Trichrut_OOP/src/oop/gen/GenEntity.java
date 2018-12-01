@@ -12,6 +12,13 @@ public abstract class GenEntity {
 	protected ArrayList<String> listName;
 	protected ArrayList<NguonGoc> listNguon;
 	protected final Random RANDOM = new Random();
+	
+	public GenEntity() {
+		// TODO Auto-generated constructor stub
+		listNguon.add(new NguonGoc("baomoi.com", "1/1/2018"));
+		listNguon.add(new NguonGoc("news.zing.vn", "27/8/2018"));
+		listNguon.add(new NguonGoc("www.msn.com", "5/8/2018"));
+	}
 
 	protected <T> T getRandom(ArrayList<T> list) {
 		// TODO Auto-generated method stub
@@ -21,7 +28,6 @@ public abstract class GenEntity {
 	}
 
 	public abstract  ArrayList<ThucThe> generate(int amount);
-	
 }
 
 

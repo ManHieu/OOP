@@ -1,6 +1,9 @@
 package oop.gen;
 
+import java.io.File;
 import java.util.ArrayList;
+
+import oop.file.GetSource;
 import oop.model.NguonGoc;
 import oop.model.Person;
 import oop.model.ThucThe;
@@ -8,6 +11,18 @@ import oop.model.ThucThe;
 public class GenPerson extends GenEntity {
 
 	private ArrayList<String> listJob;
+	
+	public GenPerson() {
+		// TODO Auto-generated constructor stub
+		super();
+		
+		File fJob = new File("/Trichrut_OOP/src/oop/file/job");
+		this.listJob = GetSource.read(fJob);
+		
+		File fName = new File("/Trichrut_OOP/src/oop/file/personLabel.txt");
+		this.listName = GetSource.read(fName);
+		
+	}
 
 	public ArrayList<ThucThe> generate(int amount) {
 		ArrayList<ThucThe> listPerson = new  ArrayList<>() ;
@@ -19,6 +34,7 @@ public class GenPerson extends GenEntity {
 			NguonGoc  nguonGoc = getRandom(listNguon);
 			int tuoi = RANDOM.nextInt(150);
 			String ID = "PERSON" + i;
+			String descrip = name + " là một " + job + " thành công ";
 			
 			Person ps = new Person();
 			ps.setNgheNghiep(job);
@@ -26,6 +42,7 @@ public class GenPerson extends GenEntity {
 			ps.setNguon(nguonGoc);
 			ps.setTuoi(tuoi);
 			ps.setID(ID);
+			ps.setMoTa(descrip);
 			
 			listPerson.add(ps);
 

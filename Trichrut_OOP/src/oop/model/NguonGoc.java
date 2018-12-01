@@ -6,6 +6,12 @@ public class NguonGoc {
 	private String link;
 	private String ngayTrichRut;
 	
+	public NguonGoc(String link, String ngay) {
+		// TODO Auto-generated constructor stub
+		this.link = link;
+		this.ngayTrichRut = ngay;
+	}
+	
 	public String getLink() {
 		return link;
 	}
