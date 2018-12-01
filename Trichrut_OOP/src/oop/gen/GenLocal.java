@@ -21,7 +21,7 @@ public class GenLocal extends GenEntity{
 	public ArrayList<ThucThe> generate(int amount) {
 		// TODO Auto-generated method stub
 		
-		ArrayList<ThucThe> listOrgan = new ArrayList<>();
+		ArrayList<ThucThe> listLocal = new ArrayList<>();
 		int i = 0;
 		while (i <= amount) {
 			String name = getRandom(listName);
@@ -36,10 +36,12 @@ public class GenLocal extends GenEntity{
 			local.setTenThucThe(name);
 			local.setQuocGia(conutry);
 			local.setMoTa(descrip);
+			
+			listLocal.add(local);
 			i ++;		
 		}
 		
-		return listOrgan;
+		return listLocal;
 	}
 
 }

@@ -8,8 +8,8 @@ import oop.model.Time;
 public class GenTime {
 	private Random rd = new Random();
 	
-	public ArrayList<String> generate(int amount){
-		ArrayList<String> listTime = new ArrayList<>();
+	public ArrayList<Time> generate(int amount){
+		ArrayList<Time> listTime = new ArrayList<>();
 		int i = 0;
 		while (i <= amount) {
 			int day = rd.nextInt(28);
@@ -20,6 +20,8 @@ public class GenTime {
 			
 			Time time = new Time();
 			time.setTime(str);
+			
+			listTime.add(time);
 			i ++;
 		}
 		return listTime;

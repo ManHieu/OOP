@@ -32,6 +32,8 @@ public class GenCountry extends GenEntity{
 			country.setNguon(nguonGoc);
 			country.setTenThucThe(name);
 			country.setMoTa(descrip);
+			
+			listCountry.add(country);
 			i ++;		
 		}
 		

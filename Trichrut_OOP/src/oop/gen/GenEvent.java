@@ -37,6 +37,8 @@ public class GenEvent extends GenEntity{
 			ev.setNguon(nguonGoc);
 			ev.setTenThucThe(name);
 			ev.setMoTa(descrip);
+			
+			listEvent.add(ev);
 			i ++;		
 		}
 		

@@ -42,6 +42,8 @@ public class GenOrganization extends GenEntity{
 			organ.setMoTa(descrip);
 			organ.setNamTL(estaYear);
 			organ.setTruSo(headquarter);
+			
+			listOrgan.add(organ);
 			i ++;		
 		}
 		
