@@ -16,10 +16,10 @@ public class GenPerson extends GenEntity {
 		// TODO Auto-generated constructor stub
 		super();
 		
-		File fJob = new File("/Trichrut_OOP/src/oop/file/job");
+		File fJob = new File("E:\\Git\\OOP\\Trichrut_OOP\\src\\oop\\file\\job");
 		this.listJob = GetSource.read(fJob);
 		
-		File fName = new File("/Trichrut_OOP/src/oop/file/personLabel.txt");
+		File fName = new File("E:\\Git\\OOP\\Trichrut_OOP\\src\\oop\\file\\personLabel.txt");
 		this.listName = GetSource.read(fName);
 		
 	}
@@ -51,6 +51,13 @@ public class GenPerson extends GenEntity {
 
 		return listPerson;
 	}
+//	public static void main(String[] args) {
+//		ArrayList<ThucThe> list  = new ArrayList<>();
+//		
+//		GenPerson gp = new GenPerson();
+//		list = gp.generate(5);
+//		System.out.println(list);
+//	}
 }
 
 

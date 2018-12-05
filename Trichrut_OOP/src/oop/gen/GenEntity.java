@@ -15,6 +15,7 @@ public abstract class GenEntity {
 	
 	public GenEntity() {
 		// TODO Auto-generated constructor stub
+		listNguon = new ArrayList<>();
 		listNguon.add(new NguonGoc("baomoi.com", "1/1/2018"));
 		listNguon.add(new NguonGoc("news.zing.vn", "27/8/2018"));
 		listNguon.add(new NguonGoc("www.msn.com", "5/8/2018"));
@@ -28,6 +29,18 @@ public abstract class GenEntity {
 	}
 
 	public abstract  ArrayList<ThucThe> generate(int amount);
+	
+//	public static void main(String[] args) {
+//		GenEntity test = new GenEntity() {
+//			
+//			@Override
+//			public ArrayList<ThucThe> generate(int amount) {
+//				// TODO Auto-generated method stub
+//				return null;
+//			}
+//		};
+//		System.out.println(test.listNguon);
+//	}
 }
 
 

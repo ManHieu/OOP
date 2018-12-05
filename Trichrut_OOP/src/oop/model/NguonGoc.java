@@ -24,5 +24,9 @@ public class NguonGoc {
 	public void setNgayTrichRut(String ngayTrichRut) {
 		this.ngayTrichRut = ngayTrichRut;
 	}
-	
+	 @Override
+	public String toString() {
+		// TODO Auto-generated method stub
+		return link + " - " + ngayTrichRut;
+	}
 }
