@@ -13,7 +13,7 @@ public class GenLocal extends GenEntity{
 	public GenLocal() {
 		// TODO Auto-generated constructor stub
 		super();
-		File fLocal = new File("/Trichrut_OOP/src/oop/file/locationLabel.txt");
+		File fLocal = new File("./oop/file/locationLabel.txt");
 		this.listName = GetSource.read(fLocal);
 	}
 
@@ -42,6 +42,12 @@ public class GenLocal extends GenEntity{
 		}
 		
 		return listLocal;
+	}
+	public static void main(String[] args) {
+		GenLocal gl = new GenLocal();
+		ArrayList<ThucThe> list = new ArrayList<>();
+		list = gl.generate(60);
+		System.out.println(list);
 	}
 
 }

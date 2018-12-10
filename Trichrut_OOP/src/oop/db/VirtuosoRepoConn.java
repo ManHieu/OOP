@@ -19,4 +19,10 @@ public class VirtuosoRepoConn {
 		}
 		return conn;
 	}
+	public void closeConn() {
+		if(conn != null) conn.close();
+	}
+	public void clearRepo() {
+		if(conn != null) conn.clear();
+	}
 }

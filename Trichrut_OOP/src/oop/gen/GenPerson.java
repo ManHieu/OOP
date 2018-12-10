@@ -51,13 +51,13 @@ public class GenPerson extends GenEntity {
 
 		return listPerson;
 	}
-//	public static void main(String[] args) {
-//		ArrayList<ThucThe> list  = new ArrayList<>();
-//		
-//		GenPerson gp = new GenPerson();
-//		list = gp.generate(5);
-//		System.out.println(list);
-//	}
+	public static void main(String[] args) {
+		ArrayList<ThucThe> list  = new ArrayList<>();
+		
+		GenPerson gp = new GenPerson();
+		list = gp.generate(55);
+		System.out.println(list);
+	}
 }
 
 

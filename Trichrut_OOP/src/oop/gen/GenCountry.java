@@ -39,4 +39,7 @@ public class GenCountry extends GenEntity{
 		
 		return listCountry;
 	}
+//	public static void main(String[] args) {
+//		
+//	}
 }

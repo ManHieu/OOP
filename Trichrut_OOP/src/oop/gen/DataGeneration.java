@@ -3,21 +3,31 @@ package oop.gen;
 import java.util.ArrayList;
 import java.util.Random;
 
+import oop.model.Relationship;
 import oop.model.ThucThe;
 
 public class DataGeneration {
+	private ArrayList<ThucThe> listEntities;
+	private ArrayList<Relationship> listRelate;
+	private final Random RANDOM = new Random();
+	
+	private  ThucThe getRandom(ArrayList<ThucThe> list) {
+		// TODO Auto-generated method stub
+		int rdIndex = RANDOM.nextInt(list.size());
+		ThucThe radom = list.get(rdIndex);
+		return radom;
+	}
+	
 	public ArrayList<ThucThe> genData(int amount){
-		ArrayList<ThucThe> listEntities = new ArrayList<>(amount);
-		
-		Random rd = new Random();
+		this.listEntities = new ArrayList<>(amount);
 		
 		int a = amount / 6;
-		int nunberOfCountry = rd.nextInt(a) + 1;
-		int nunberOfEvent = rd.nextInt(a) + 1;
-		int nunberOfLocation = rd.nextInt(a) + 1;
-		int nunberOfOrganization = rd.nextInt(a) + 1;
-		int nunberOfTime = rd.nextInt(a) + 1;
-		int nunberOfPerson = amount - nunberOfCountry - nunberOfEvent - nunberOfLocation - nunberOfOrganization - nunberOfTime;
+		int nunberOfCountry = a/2;
+		int nunberOfEvent = a;
+		int nunberOfLocation = a;
+		int nunberOfOrganization = a;
+		int nunberOfTime = a/3;
+		int nunberOfPerson = amount - a/2 - 3*a - a/3;
 		
 		GenPerson gp = new GenPerson();
 		listEntities.addAll(gp.generate(nunberOfPerson));
@@ -38,5 +48,24 @@ public class DataGeneration {
 		listEntities.addAll(gt.generate(nunberOfTime));
 		
 		return listEntities;
+	}
+	
+	public ArrayList<Relationship> genRelate(int amount){
+		
+		if(listEntities == null) return null;
+		
+		this.listRelate = new ArrayList<>(amount);
+		GenRelation gr = new GenRelation();
+		
+		int count = 0;
+		while(count <= amount) {
+			ThucThe en1 = getRandom(listEntities);
+			ThucThe en2 = getRandom(listEntities);
+			if(en1.equals(en2)) continue;
+			Relationship relate = gr.genRelate(en1, en2);
+			if(relate != null) count ++;
+		}
+		
+		return listRelate;
 	}
 }

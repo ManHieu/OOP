@@ -9,7 +9,7 @@ public class RDFSchema {
 	RepositoryConnection repoConn;
 	ValueFactory vf;
 	
-	final String NAMESPACE = "http://example.com/virtuoso#1";
+	final String NAMESPACE = "http://example.com/virtuoso#1/";
 	
 	protected IRI ID, descrip, name, link, date, age, job, time, headquater, estaYear, province;
 	protected IRI nguonGoc, event, person, relation, organization, location, country;
@@ -126,7 +126,10 @@ public class RDFSchema {
 		return country;
 	}
 	
-	
+//	public static void main(String[] args) {
+//		RDFSchema schema = new RDFSchema();
+//		System.out.println(schema.getCountry());
+//	}
 }
 
 

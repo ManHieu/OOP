@@ -49,4 +49,7 @@ public class GenOrganization extends GenEntity{
 		
 		return listOrgan;
 	}
+//	public static void main(String[] args) {
+//		
+//	}
 }

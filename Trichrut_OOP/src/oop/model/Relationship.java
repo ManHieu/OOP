@@ -3,7 +3,7 @@ package oop.model;
 public class Relationship {
 	
 	private ThucThe tt1, tt2;
-	private String quanHe;
+	private String quanHe ;
 
 	public ThucThe getTt1() {
 		return tt1;
@@ -23,6 +23,5 @@ public class Relationship {
 	public void setQuanHe(String quanHe) {
 		this.quanHe = quanHe;
 	}
-
 
 }

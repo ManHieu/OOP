@@ -31,5 +31,12 @@ public class ThucThe {
 		this.moTa = moTa;
 	}
 	
+	@Override
+	public boolean equals(Object obj) {
+		// TODO Auto-generated method stub
+		if(obj instanceof ThucThe) return ((ThucThe) obj).getID() == this.getID();
+		else return false;
+	}
+	
 	
 }
