@@ -20,25 +20,25 @@ public class RDFSchema {
 		this.repoConn = virtuosoRepoConn.getConnection();
 		this.vf = repoConn.getValueFactory();
 		
-		ID = vf.createIRI(NAMESPACE, "ID");
-		descrip = vf.createIRI(NAMESPACE, "Description");
-		name = vf.createIRI(NAMESPACE, "Name");
-		link = vf.createIRI(NAMESPACE, "Link");
-		date = vf.createIRI(NAMESPACE, "Date");
-		age = vf.createIRI(NAMESPACE, "Age");
-		job = vf.createIRI(NAMESPACE, "Job");
-		time = vf.createIRI(NAMESPACE, "time");
-		headquater = vf.createIRI(NAMESPACE, "Headquater");
-		estaYear = vf.createIRI(NAMESPACE, "EstaYear");
-		province = vf.createIRI(NAMESPACE, "Province");
+		ID = vf.createIRI(NAMESPACE, "ID/");
+		descrip = vf.createIRI(NAMESPACE, "Description/");
+		name = vf.createIRI(NAMESPACE, "Name/");
+		link = vf.createIRI(NAMESPACE, "Link/");
+		date = vf.createIRI(NAMESPACE, "Date/");
+		age = vf.createIRI(NAMESPACE, "Age/");
+		job = vf.createIRI(NAMESPACE, "Job/");
+		time = vf.createIRI(NAMESPACE, "time/");
+		headquater = vf.createIRI(NAMESPACE, "Headquater/");
+		estaYear = vf.createIRI(NAMESPACE, "EstaYear/");
+		province = vf.createIRI(NAMESPACE, "Province/");
 		
-		nguonGoc = vf.createIRI(NAMESPACE, "NgonGoc");
-		event = vf.createIRI(NAMESPACE, "Event");
-		person = vf.createIRI(NAMESPACE, "Person");
-		relation = vf.createIRI(NAMESPACE, "Relationship");
-		organization = vf.createIRI(NAMESPACE, "Organization");
-		location = vf.createIRI(NAMESPACE, "Location");
-		country = vf.createIRI(NAMESPACE, "Country");
+		nguonGoc = vf.createIRI(NAMESPACE, "NgonGoc/");
+		event = vf.createIRI(NAMESPACE, "Event/");
+		person = vf.createIRI(NAMESPACE, "Person/");
+		relation = vf.createIRI(NAMESPACE, "Relationship/");
+		organization = vf.createIRI(NAMESPACE, "Organization/");
+		location = vf.createIRI(NAMESPACE, "Location/");
+		country = vf.createIRI(NAMESPACE, "Country/");
 		
 	}
 

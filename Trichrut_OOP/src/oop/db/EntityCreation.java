@@ -2,10 +2,12 @@ package oop.db;
 
 import org.eclipse.rdf4j.model.IRI;
 import org.eclipse.rdf4j.model.Literal;
+import org.eclipse.rdf4j.repository.RepositoryConnection;
 
 import oop.model.Location;
 import oop.model.Organization;
 import oop.model.Person;
+import oop.model.Relationship;
 import oop.model.ThucThe;
 import oop.model.Time;
 import oop.model.Country;
@@ -89,7 +91,7 @@ public class EntityCreation extends RDFSchema{
 		return timeIRI;
 	}
 	public IRI createIRIOrganization(Organization organ) {
-		IRI organIRI = vf.createIRI(this.getPerson().toString(),organ.getID());
+		IRI organIRI = vf.createIRI(this.getOrganization().toString(),organ.getID());
 		
 		Literal name = vf.createLiteral(organ.getTenThucThe());
 		Literal headerquater = vf.createLiteral(organ.getTruSo());
@@ -118,10 +120,31 @@ public class EntityCreation extends RDFSchema{
 		return null;
 	}
 	
+	public IRI createIRI(ThucThe entity) {
+		
+		if(entity instanceof Person) return vf.createIRI(this.getPerson().toString(),entity.getID());
+		if(entity instanceof Location) return vf.createIRI(this.getLocation().toString(),entity.getID());
+		if(entity instanceof Organization) return vf.createIRI(this.getOrganization().toString(),entity.getID());
+		if(entity instanceof Event) return vf.createIRI(this.getEvent().toString(),entity.getID());
+		if(entity instanceof Country) return vf.createIRI(this.getCountry().toString(),entity.getID());
+		if(entity instanceof Time) return vf.createIRI(this.getTime().toString(),entity.getID());
+		
+		return null;
+	}
 	
+	public void addRelation(Relationship relate) {
+		
+		IRI en1IRI = this.createIRI(relate.getTt1());
+		IRI en2IRI = this.createIRI(relate.getTt2());
+		IRI relateIRI = vf.createIRI(this.getRelation().toString(),relate.getQuanHe());
+		
+		this.repoConn.add(en1IRI, relateIRI, en2IRI);
+	}
+	
+	public RepositoryConnection getRepoConn() {
+		return this.repoConn;
+	}
 }
-
-
 
 
 

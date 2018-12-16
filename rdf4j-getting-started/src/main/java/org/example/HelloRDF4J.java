@@ -16,6 +16,7 @@ import org.eclipse.rdf4j.rio.RDFFormat;
 import org.eclipse.rdf4j.rio.Rio;
 import org.eclipse.rdf4j.sail.memory.MemoryStore;
 
+import ch.qos.logback.core.net.SyslogOutputStream;
 import virtuoso.rdf4j.driver.VirtuosoRepository;
 
 
@@ -25,15 +26,17 @@ public class HelloRDF4J {
 		// TODO Auto-generated method stub
 		Repository rep = new VirtuosoRepository("jdbc:virtuoso://localhost:1111", "dba", "dba");
 		
-		rep.initialize();
+//		rep.initialize();
 		
-		String namespace = "http://example.org/";
+		
+		String namespace = "http://example.org/HIEU#";
 		ValueFactory f = rep.getValueFactory();
 		IRI john = f.createIRI(namespace,"john");
 		
 		
 		
 		try(RepositoryConnection conn = rep.getConnection()){
+			if(conn != null) System.out.println("thanh cong");
 			
 			conn.add(john, RDF.TYPE, FOAF.PERSON);
 			conn.add(john, RDFS.LABEL, f.createLiteral("John"));
@@ -44,7 +47,11 @@ public class HelloRDF4J {
 			model.setNamespace("rdfs",RDFS.NAMESPACE);
 			model.setNamespace("foaf",FOAF.NAMESPACE);
 			model.setNamespace("ex", namespace);
+			
+//			conn.clear();
+			
 			Rio.write(model, System.out, RDFFormat.TURTLE);
+			
 
 		}
 	}

@@ -37,5 +37,6 @@
 	<classpathentry kind="lib" path="lib/virtjdbc4_2.jar"/>
 	<classpathentry kind="lib" path="gradle/wrapper/gradle-wrapper.jar"/>
 	<classpathentry kind="lib" path="lib/virt_rdf4j.jar"/>
+	<classpathentry kind="lib" path="lib/eclipse-rdf4j-2.4.2-onejar.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
