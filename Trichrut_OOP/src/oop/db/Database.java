@@ -47,4 +47,10 @@ public class Database {
 			create.addRelation(relate);
 		}
 	}
+	
+	public void clearRepo() {
+		RepositoryConnection conn = this.getConn();
+		conn.clear();
+	}
+	
 }

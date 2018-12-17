@@ -13,7 +13,7 @@ public class GenCountry extends GenEntity{
 	public GenCountry() {
 		// TODO Auto-generated constructor stub
 		super();
-		File fName = new File("/Trichrut_OOP/src/oop/file/countryLabel.txt");
+		File fName = new File("E:\\Git\\OOP\\Trichrut_OOP\\src\\oop\\file\\countryLabel.txt");
 		this.listName = GetSource.read(fName);
 	}
 	
@@ -39,7 +39,8 @@ public class GenCountry extends GenEntity{
 		
 		return listCountry;
 	}
-//	public static void main(String[] args) {
-//		
-//	}
+	public static void main(String[] args) {
+		GenCountry gc = new GenCountry();
+		System.out.println(gc.generate(7000));
+	}
 }

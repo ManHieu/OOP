@@ -21,10 +21,10 @@ public class GenRelation {
 	
 	public GenRelation() {
 		// TODO Auto-generated constructor stub
-		File fRelatePerson_Person = new File("");
-		File fRelatePerson_Ev = new File("");
-		File fRelatePerson_Local = new File("");
-		File fRelatePerson_Organ = new File("");
+		File fRelatePerson_Person = new File("E:\\Git\\OOP\\Trichrut_OOP\\src\\oop\\file\\PvsP.txt");
+		File fRelatePerson_Ev = new File("E:\\Git\\OOP\\Trichrut_OOP\\src\\oop\\file\\PvsP.txt");
+		File fRelatePerson_Local = new File("E:\\Git\\OOP\\Trichrut_OOP\\src\\oop\\file\\PvsP.txt");
+		File fRelatePerson_Organ = new File("E:\\Git\\OOP\\Trichrut_OOP\\src\\oop\\file\\PvsP.txt");
 		
 		this.relatePerson_Person = GetSource.read(fRelatePerson_Person);
 		this.relatePerson_Ev = GetSource.read(fRelatePerson_Ev);

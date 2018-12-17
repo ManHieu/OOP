@@ -16,7 +16,7 @@ public class GenPerson extends GenEntity {
 		// TODO Auto-generated constructor stub
 		super();
 		
-		File fJob = new File("E:\\Git\\OOP\\Trichrut_OOP\\src\\oop\\file\\job");
+		File fJob = new File("E:\\Git\\OOP\\Trichrut_OOP\\src\\oop\\file\\job.txt");
 		this.listJob = GetSource.read(fJob);
 		
 		File fName = new File("E:\\Git\\OOP\\Trichrut_OOP\\src\\oop\\file\\personLabel.txt");
@@ -55,8 +55,11 @@ public class GenPerson extends GenEntity {
 		ArrayList<ThucThe> list  = new ArrayList<>();
 		
 		GenPerson gp = new GenPerson();
-		list = gp.generate(55);
-		System.out.println(list);
+//		System.out.println(gp.listJob);
+//		list = gp.generate(55);
+//		for(ThucThe tt : list) {
+//			if(tt instanceof Person) System.out.println(((Person) tt).getNgheNghiep());
+//		}
 	}
 }
 

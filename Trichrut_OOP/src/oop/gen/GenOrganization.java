@@ -15,10 +15,10 @@ public class GenOrganization extends GenEntity{
 	public GenOrganization() {
 		// TODO Auto-generated constructor stub
 		super();
-		File fOrgan = new File("/Trichrut_OOP/src/oop/file/organizationLabel.txt");
+		File fOrgan = new File("E:\\Git\\OOP\\Trichrut_OOP\\src\\oop\\file\\organizationLabel.txt");
 		this.listName = GetSource.read(fOrgan);
 		
-		File fHeadquarter = new File("/Trichrut_OOP/src/oop/file/organizationHeadquarter.txt");
+		File fHeadquarter = new File("E:\\Git\\OOP\\Trichrut_OOP\\src\\oop\\file\\organizationHeadquarter.txt");
 		this.listHeadquarters = GetSource.read(fHeadquarter);
 		
 	}
@@ -50,6 +50,7 @@ public class GenOrganization extends GenEntity{
 		return listOrgan;
 	}
 //	public static void main(String[] args) {
-//		
+//		GenOrganization go = new GenOrganization();
+//		System.out.println(go.generate(55));
 //	}
 }

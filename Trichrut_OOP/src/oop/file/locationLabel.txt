@@ -37,10 +37,10 @@ Tezpur, India
 Shimla, India
 Hakodate, Japan
 Helena, United States
-Xining,China
+Xining, China
 Eureka, Canada
 Medina, Saudi Arabia
-Qiqihar,China
+Qiqihar, China
 St. George's, Grenada
 St. John's, Canada
 Chittagong, Bangladesh
@@ -52,7 +52,7 @@ Matsuyama, Japan
 Punta Arenas, Chile
 Peshawar, Pakistan
 Beirut, Lebanon
-Chongqing,China
+Chongqing, China
 Alofi, New Zealand
 Graz, Austria
 Aracaju, Brazil
@@ -669,4 +669,3 @@ Dương Minh Châu, Việt Nam
 Đồng Xoài, Việt Nam
 Đồng Xuân, Việt Nam
 Đống Đa, Việt Nam
-

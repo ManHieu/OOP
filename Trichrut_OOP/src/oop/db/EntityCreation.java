@@ -1,4 +1,7 @@
 package oop.db;
+/*
+ * add hết vào một model xong gửi model lên repository sau.
+ */
 
 import org.eclipse.rdf4j.model.IRI;
 import org.eclipse.rdf4j.model.Literal;

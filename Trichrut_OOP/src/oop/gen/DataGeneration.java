@@ -22,12 +22,12 @@ public class DataGeneration {
 		this.listEntities = new ArrayList<>(amount);
 		
 		int a = amount / 6;
-		int nunberOfCountry = a/2;
+		int nunberOfCountry = 20;
 		int nunberOfEvent = a;
 		int nunberOfLocation = a;
 		int nunberOfOrganization = a;
 		int nunberOfTime = a/3;
-		int nunberOfPerson = amount - a/2 - 3*a - a/3;
+		int nunberOfPerson = amount - 175 - 3*a - a/3;
 		
 		GenPerson gp = new GenPerson();
 		listEntities.addAll(gp.generate(nunberOfPerson));
@@ -63,9 +63,32 @@ public class DataGeneration {
 			ThucThe en2 = getRandom(listEntities);
 			if(en1.equals(en2)) continue;
 			Relationship relate = gr.genRelate(en1, en2);
-			if(relate != null) count ++;
+			if(relate != null) {
+				listRelate.add(relate);
+				count ++;
+			}
 		}
 		
 		return listRelate;
 	}
+	
+//	public static void main(String[] args) {
+//		DataGeneration dg = new DataGeneration();
+//		ArrayList<ThucThe> list = dg.genData(5000);
+//		ArrayList<Relationship> listRe = dg.genRelate(7000);
+//		
+//		System.out.println(list);
+//		System.out.println("sang cái khác");
+//		System.out.println(listRe);
+//		
+//	}
+	
 }
+
+
+
+
+
+
+
+

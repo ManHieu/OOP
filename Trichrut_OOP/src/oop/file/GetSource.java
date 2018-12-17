@@ -3,31 +3,31 @@ package oop.file;
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileInputStream;
+import java.io.FileReader;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
 
 public class GetSource {
 	
 	public static ArrayList<String> read(File f) {
-		ArrayList<String> listName = new ArrayList<>();
+		ArrayList<String> list = new ArrayList<>();
 		try {
 			
-			FileInputStream fis = new FileInputStream(f);
-			InputStreamReader isr = new InputStreamReader(fis);
-			BufferedReader br = new BufferedReader(isr);
+			FileReader fr = new FileReader(f);
+			BufferedReader br = new BufferedReader(fr);
 			
-			while(br.readLine() != null) {
-				 String str = br.readLine();
-				 listName.add(str);
+			String line;
+			while((line = br.readLine()) != null) {
+				 String str = line;
+				 if(str != null) list.add(str);
 			}
 			
 			br.close();
-			isr.close();
-			fis.close();
+			fr.close();
 		} catch (Exception e) {
 			// TODO: handle exception
 			e.printStackTrace();
 		}
-		return listName;
+		return list;
 	}
 }

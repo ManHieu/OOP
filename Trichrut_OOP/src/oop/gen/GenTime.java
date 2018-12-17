@@ -35,4 +35,9 @@ public class GenTime extends GenEntity{
 		}
 		return listTime;
 	}
+	
+//	public static void main(String[] args) {
+//		GenTime gt = new GenTime();
+//		System.out.println(gt.generate(60));
+//	}
 }
