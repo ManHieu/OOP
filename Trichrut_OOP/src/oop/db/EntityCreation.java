@@ -5,6 +5,9 @@ package oop.db;
 
 import org.eclipse.rdf4j.model.IRI;
 import org.eclipse.rdf4j.model.Literal;
+import org.eclipse.rdf4j.model.Model;
+import org.eclipse.rdf4j.model.Statement;
+import org.eclipse.rdf4j.model.impl.LinkedHashModel;
 import org.eclipse.rdf4j.repository.RepositoryConnection;
 
 import oop.model.Location;
@@ -22,7 +25,9 @@ public class EntityCreation extends RDFSchema{
 		super();
 	}
 	
-	public IRI createIRIPerson(Person ps) {
+	public LinkedHashModel createModelPerson(Person ps) {
+		LinkedHashModel model = new LinkedHashModel();
+		
 		IRI personIRI = vf.createIRI(this.getPerson().toString(),ps.getID());
 		
 		Literal name = vf.createLiteral(ps.getTenThucThe());
@@ -31,15 +36,17 @@ public class EntityCreation extends RDFSchema{
 		Literal descrip = vf.createLiteral(ps.getMoTa());
 		Literal link = vf.createLiteral(ps.getNguon().toString());
 		
-		repoConn.add(personIRI, this.name, name);
-		repoConn.add(personIRI, this.age, age);
-		repoConn.add(personIRI, this.job, job);
-		repoConn.add(personIRI, this.descrip, descrip);
-		repoConn.add(personIRI, this.link, link);
+		model.add(personIRI, this.name, name);
+		model.add(personIRI, this.age, age);
+		model.add(personIRI, this.job, job);
+		model.add(personIRI, this.descrip, descrip);
+		model.add(personIRI, this.link, link);
 		
-		return personIRI;
+		return model;
 	}
-	public IRI createIRILocal(Location local) {
+	public LinkedHashModel createModelLocal(Location local) {
+		LinkedHashModel model = new LinkedHashModel();
+		
 		IRI localIRI = vf.createIRI(this.getLocation().toString(),local.getID());
 		
 		Literal name = vf.createLiteral(local.getTenThucThe());
@@ -47,53 +54,60 @@ public class EntityCreation extends RDFSchema{
 		Literal descrip = vf.createLiteral(local.getMoTa());
 		Literal link = vf.createLiteral(local.getNguon().toString());
 		
-		repoConn.add(localIRI, this.name, name);
-		repoConn.add(localIRI, this.country, country);
-		repoConn.add(localIRI, this.descrip, descrip);
-		repoConn.add(localIRI, this.link, link);
+		model.add(localIRI, this.name, name);
+		model.add(localIRI, this.country, country);
+		model.add(localIRI, this.descrip, descrip);
+		model.add(localIRI, this.link, link);
 		
-		return localIRI;
+		return model;
 	}
-	public IRI createIRICountry(Country country) {
+	public LinkedHashModel createModelCountry(Country country) {
+		
+		LinkedHashModel model = new LinkedHashModel();
 		IRI countryIRI = vf.createIRI(this.getCountry().toString(),country.getID());
 		
 		Literal name = vf.createLiteral(country.getTenThucThe());
 		Literal descrip = vf.createLiteral(country.getMoTa());
 		Literal link = vf.createLiteral(country.getNguon().toString());
 		
-		repoConn.add(countryIRI, this.name, name);
-		repoConn.add(countryIRI, this.descrip, descrip);
-		repoConn.add(countryIRI, this.link, link);
+		model.add(countryIRI, this.name, name);
+		model.add(countryIRI, this.descrip, descrip);
+		model.add(countryIRI, this.link, link);
 		
-		return countryIRI;
+		return model;
 	}
-	public IRI createIRIEvent(Event ev) {
+	public LinkedHashModel createModelEvent(Event ev) {
+		LinkedHashModel model = new LinkedHashModel();
 		IRI eventIRI = vf.createIRI(this.getEvent().toString(),ev.getID());
 		
 		Literal name = vf.createLiteral(ev.getTenThucThe());
 		Literal descrip = vf.createLiteral(ev.getMoTa());
 		Literal link = vf.createLiteral(ev.getNguon().toString());
 		
-		repoConn.add(eventIRI, this.name, name);
-		repoConn.add(eventIRI, this.descrip, descrip);
-		repoConn.add(eventIRI, this.link, link);
+		model.add(eventIRI, this.name, name);
+		model.add(eventIRI, this.descrip, descrip);
+		model.add(eventIRI, this.link, link);
 		
-		return eventIRI;
+		return model;
 	}
-	public IRI createIRITime(Time time) {
+	public LinkedHashModel createModelTime(Time time) {
+		LinkedHashModel model = new LinkedHashModel();
 		IRI timeIRI = vf.createIRI(this.getTime().toString(),time.getID());
 		
 		Literal name = vf.createLiteral(time.getTenThucThe());
 		Literal descrip = vf.createLiteral(time.getMoTa());
 		Literal link = vf.createLiteral(time.getNguon().toString());
 		
-		repoConn.add(timeIRI, this.name, name);
-		repoConn.add(timeIRI, this.descrip, descrip);
-		repoConn.add(timeIRI, this.link, link);
+		model.add(timeIRI, this.name, name);
+		model.add(timeIRI, this.descrip, descrip);
+		model.add(timeIRI, this.link, link);
 		
-		return timeIRI;
+		return model;
 	}
-	public IRI createIRIOrganization(Organization organ) {
+	public LinkedHashModel createModelOrganization(Organization organ) {
+		
+		LinkedHashModel model = new LinkedHashModel();
+		
 		IRI organIRI = vf.createIRI(this.getOrganization().toString(),organ.getID());
 		
 		Literal name = vf.createLiteral(organ.getTenThucThe());
@@ -102,23 +116,23 @@ public class EntityCreation extends RDFSchema{
 		Literal descrip = vf.createLiteral(organ.getMoTa());
 		Literal link = vf.createLiteral(organ.getNguon().toString());
 		
-		repoConn.add(organIRI, this.name, name);
-		repoConn.add(organIRI, this.headquater, headerquater);
-		repoConn.add(organIRI, this.estaYear, estaYear);
-		repoConn.add(organIRI, this.descrip, descrip);
-		repoConn.add(organIRI, this.link, link);
+		model.add(organIRI, this.name, name);
+		model.add(organIRI, this.headquater, headerquater);
+		model.add(organIRI, this.estaYear, estaYear);
+		model.add(organIRI, this.descrip, descrip);
+		model.add(organIRI, this.link, link);
 		
-		return organIRI;
+		return model;
 	}
 	
-	public IRI createIRIEntity(ThucThe entity) {
+	public LinkedHashModel createModelEntity(ThucThe entity) {
 		
-		if(entity instanceof Person) return createIRIPerson((Person) entity);
-		if(entity instanceof Location) return createIRILocal((Location) entity);
-		if(entity instanceof Organization) return createIRIOrganization((Organization) entity);
-		if(entity instanceof Event) return createIRIEvent((Event) entity);
-		if(entity instanceof Country) return createIRICountry((Country) entity);
-		if(entity instanceof Time) return createIRITime((Time) entity);
+		if(entity instanceof Person) return createModelPerson((Person) entity);
+		if(entity instanceof Location) return createModelLocal((Location) entity);
+		if(entity instanceof Organization) return createModelOrganization((Organization) entity);
+		if(entity instanceof Event) return createModelEvent((Event) entity);
+		if(entity instanceof Country) return createModelCountry((Country) entity);
+		if(entity instanceof Time) return createModelTime((Time) entity);
 		
 		return null;
 	}
@@ -135,17 +149,26 @@ public class EntityCreation extends RDFSchema{
 		return null;
 	}
 	
-	public void addRelation(Relationship relate) {
+	public Statement addRelation(Relationship relate) {
 		
 		IRI en1IRI = this.createIRI(relate.getTt1());
 		IRI en2IRI = this.createIRI(relate.getTt2());
 		IRI relateIRI = vf.createIRI(this.getRelation().toString(),relate.getQuanHe());
+		Statement stmRelate = vf.createStatement(en1IRI, relateIRI, en2IRI);
 		
-		this.repoConn.add(en1IRI, relateIRI, en2IRI);
+		return stmRelate;
 	}
 	
 	public RepositoryConnection getRepoConn() {
 		return this.repoConn;
+	}
+	public static void main(String[] args) {
+		EntityCreation ec = new EntityCreation();
+		Person ps = new Person();
+		ps.setID("PERSON1");
+		IRI personIRI = ec.createIRI(ps);
+		System.out.println(personIRI);
+		System.out.println(ec.descrip);
 	}
 }
 

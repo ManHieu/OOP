@@ -22,30 +22,17 @@ public class GenEvent extends GenEntity{
 	}
 
 	@Override
-	public ArrayList<ThucThe> generate(int amount) {
+	public ThucThe generate() {
 		// TODO Auto-generated method stub
-		ArrayList<ThucThe> listEvent = new ArrayList<>();
-		int i = 0;
-		while (i <= amount) {
 			String name = getRandom(listName);
-			NguonGoc  nguonGoc = getRandom(listNguon);
-			String ID = "EVENT" + i;
+			NguonGoc  nguonGoc = getRandom(listNguon);		
 			String descrip = getRandom(listDescrip);
 
 			Event ev = new Event();
-			ev.setID(ID);
 			ev.setNguon(nguonGoc);
 			ev.setTenThucThe(name);
 			ev.setMoTa(descrip);
 
-			listEvent.add(ev);
-			i ++;		
-		}
-
-		return listEvent;
+		return ev;
 	}
-//	public static void main(String[] args) {
-//		GenEvent ge = new GenEvent();
-//		System.out.println(ge.generate(80));
-//	}
 }

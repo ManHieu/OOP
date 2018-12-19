@@ -23,34 +23,28 @@ public class GenOrganization extends GenEntity{
 		
 	}
 	
-	public ArrayList<ThucThe> generate(int amount) {
+	public ThucThe generate() {
 		// TODO Auto-generated method stub
-		ArrayList<ThucThe> listOrgan = new ArrayList<>();
-		int i = 0;
-		while (i <= amount) {
 			String name = getRandom(listName);
 			NguonGoc  nguonGoc = getRandom(listNguon);
-			String ID = "ORGANIZATION" + i;
 			int estaYear = RANDOM.nextInt(118) + 1900;
 			String headquarter = getRandom(listHeadquarters);
 			String descrip = name +" được thành lập vào năm " + estaYear + ", và có trụ sở tại " + headquarter;
 
 			Organization organ = new Organization();
-			organ.setID(ID);
 			organ.setNguon(nguonGoc);
 			organ.setTenThucThe(name);
 			organ.setMoTa(descrip);
 			organ.setNamTL(estaYear);
 			organ.setTruSo(headquarter);
 			
-			listOrgan.add(organ);
-			i ++;		
-		}
-		
-		return listOrgan;
+	
+		return organ;
 	}
-//	public static void main(String[] args) {
-//		GenOrganization go = new GenOrganization();
-//		System.out.println(go.generate(55));
-//	}
 }
+
+
+
+
+
+

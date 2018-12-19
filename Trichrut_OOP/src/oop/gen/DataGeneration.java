@@ -3,8 +3,14 @@ package oop.gen;
 import java.util.ArrayList;
 import java.util.Random;
 
+import oop.model.Country;
+import oop.model.Event;
+import oop.model.Location;
+import oop.model.Organization;
+import oop.model.Person;
 import oop.model.Relationship;
 import oop.model.ThucThe;
+import oop.model.Time;
 
 public class DataGeneration {
 	private ArrayList<ThucThe> listEntities;
@@ -22,30 +28,60 @@ public class DataGeneration {
 		this.listEntities = new ArrayList<>(amount);
 		
 		int a = amount / 6;
-		int nunberOfCountry = 20;
-		int nunberOfEvent = a;
-		int nunberOfLocation = a;
-		int nunberOfOrganization = a;
-		int nunberOfTime = a/3;
-		int nunberOfPerson = amount - 175 - 3*a - a/3;
+		int numberOfCountry = 20;
+		int numberOfEvent = a;
+		int numberOfLocation = a/2;
+		int numberOfOrganization = a;
+		int numberOfTime = a/9;
+		int numberOfPerson = amount - 20 - 2*a - a/9 - a/2;
 		
 		GenPerson gp = new GenPerson();
-		listEntities.addAll(gp.generate(nunberOfPerson));
+		for(int i = 0; i < numberOfPerson; i ++) {
+			String ID = "PERSON" + i;
+			Person ps = (Person) gp.generate();
+			ps.setID(ID);
+			listEntities.add(ps);
+		}
 		
 		GenCountry gc = new GenCountry();
-		listEntities.addAll(gc.generate(nunberOfCountry));
+		for(int i = 0; i < numberOfCountry; i ++) {
+			String ID = "COUNTRY" + i;
+			Country country = (Country) gc.generate();
+			country.setID(ID);
+			listEntities.add(country);
+		}
 		
 		GenEvent ge = new GenEvent();
-		listEntities.addAll(ge.generate(nunberOfEvent));
+		for(int i = 0; i < numberOfEvent; i ++) {
+			String ID = "EVENT" + i;
+			Event ev = (Event) ge.generate();
+			ev.setID(ID);
+			listEntities.add(ev);
+		}
 		
 		GenOrganization go = new  GenOrganization();
-		listEntities.addAll(go.generate(nunberOfOrganization));
+		for(int i = 0; i < numberOfOrganization; i ++) {
+			String ID = "ORGANIZATION" + i;
+			Organization organ = (Organization) go.generate();
+			organ.setID(ID);
+			listEntities.add(organ);
+		}
 		
 		GenLocal gl = new GenLocal();
-		listEntities.addAll(gl.generate(nunberOfLocation));
+		for(int i = 0; i < numberOfLocation; i ++) {
+			String ID = "LOCAL" + i;
+			Location local = (Location) gl.generate();
+			local.setID(ID);
+			listEntities.add(local);
+		}
 		
 		GenTime gt = new GenTime();
-		listEntities.addAll(gt.generate(nunberOfTime));
+		for(int i = 0; i < numberOfTime; i ++) {
+			String ID = "TIME" + i;
+			Time time = (Time) gt.generate();
+			time.setID(ID);
+			listEntities.add(time);
+		}
 		
 		return listEntities;
 	}
@@ -72,16 +108,16 @@ public class DataGeneration {
 		return listRelate;
 	}
 	
-//	public static void main(String[] args) {
-//		DataGeneration dg = new DataGeneration();
-//		ArrayList<ThucThe> list = dg.genData(5000);
-//		ArrayList<Relationship> listRe = dg.genRelate(7000);
-//		
-//		System.out.println(list);
-//		System.out.println("sang cái khác");
-//		System.out.println(listRe);
-//		
-//	}
+	public static void main(String[] args) {
+		DataGeneration dg = new DataGeneration();
+		ArrayList<ThucThe> list = dg.genData(60000);
+		ArrayList<Relationship> listRe = dg.genRelate(80000);
+		
+		System.out.println(list);
+		System.out.println("sang cái khác");
+		System.out.println(listRe);
+		
+	}
 	
 }
 

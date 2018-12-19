@@ -104,16 +104,8 @@ public class Test {
 			conn.add(bob, RDF.TYPE, person);
 			// bob's name is "Bob"
 			conn.add(bob, name, bobsName);
-			RepositoryResult<Statement> statements = conn.getStatements(alice, null, null, true);
-			try {
-			   while (statements.hasNext()) {
-			      Statement st = statements.next();
-			      System.out.println(st);
-			   }
-			}
-			finally {
-			   statements.close(); // make sure the result object is closed properly
-			}
+			
+			System.out.println(conn);
 		}
 		
 	}

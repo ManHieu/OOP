@@ -28,19 +28,7 @@ public abstract class GenEntity {
 		return radom;
 	}
 
-	public abstract  ArrayList<ThucThe> generate(int amount);
-	
-//	public static void main(String[] args) {
-//		GenEntity test = new GenEntity() {
-//			
-//			@Override
-//			public ArrayList<ThucThe> generate(int amount) {
-//				// TODO Auto-generated method stub
-//				return null;
-//			}
-//		};
-//		System.out.println(test.listNguon);
-//	}
+	public abstract ThucThe generate();
 }
 
 

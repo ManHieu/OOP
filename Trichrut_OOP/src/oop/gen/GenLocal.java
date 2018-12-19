@@ -1,7 +1,6 @@
 package oop.gen;
 
 import java.io.File;
-import java.util.ArrayList;
 
 import oop.file.GetSource;
 import oop.model.Location;
@@ -18,36 +17,20 @@ public class GenLocal extends GenEntity{
 	}
 
 	@Override
-	public ArrayList<ThucThe> generate(int amount) {
+	public ThucThe generate() {
 		// TODO Auto-generated method stub
-		
-		ArrayList<ThucThe> listLocal = new ArrayList<>();
-		int i = 0;
-		while (i <= amount) {
 			String name = getRandom(listName);
 			NguonGoc  nguonGoc = getRandom(listNguon);
-			String ID = "LOCAL" + i;
+			
 			String conutry = name;
 			String descrip = name + " là một địa điểm vô cùng nổi tiếng ở " + conutry;
 			
 			Location local = new Location();
-			local.setID(ID);
 			local.setNguon(nguonGoc);
 			local.setTenThucThe(name);
 			local.setQuocGia(conutry);
 			local.setMoTa(descrip);
-			
-			listLocal.add(local);
-			i ++;		
-		}
 		
-		return listLocal;
+		return local;
 	}
-//	public static void main(String[] args) {
-//		GenLocal gl = new GenLocal();
-//		ArrayList<ThucThe> list = new ArrayList<>();
-//		list = gl.generate(60);
-//		System.out.println(list);
-//	}
-
 }

@@ -24,16 +24,12 @@ public class GenPerson extends GenEntity {
 		
 	}
 
-	public ArrayList<ThucThe> generate(int amount) {
-		ArrayList<ThucThe> listPerson = new  ArrayList<>() ;
+	public ThucThe generate() {
 		
-		int i = 0;
-		while (i <= amount) {
 			String name = getRandom(listName);
 			String job = getRandom(listJob);
 			NguonGoc  nguonGoc = getRandom(listNguon);
 			int tuoi = RANDOM.nextInt(150);
-			String ID = "PERSON" + i;
 			String descrip = name + " là một " + job + " thành công ";
 			
 			Person ps = new Person();
@@ -41,25 +37,9 @@ public class GenPerson extends GenEntity {
 			ps.setTenThucThe(name);
 			ps.setNguon(nguonGoc);
 			ps.setTuoi(tuoi);
-			ps.setID(ID);
 			ps.setMoTa(descrip);
-			
-			listPerson.add(ps);
 
-			i ++;		
-		}
-
-		return listPerson;
-	}
-	public static void main(String[] args) {
-		ArrayList<ThucThe> list  = new ArrayList<>();
-		
-		GenPerson gp = new GenPerson();
-//		System.out.println(gp.listJob);
-//		list = gp.generate(55);
-//		for(ThucThe tt : list) {
-//			if(tt instanceof Person) System.out.println(((Person) tt).getNgheNghiep());
-//		}
+		return ps;
 	}
 }
 

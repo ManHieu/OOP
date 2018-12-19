@@ -1,8 +1,9 @@
 package oop.db;
 
 import java.util.ArrayList;
+import java.util.Collections;
 
-import org.eclipse.rdf4j.model.IRI;
+import org.eclipse.rdf4j.model.impl.LinkedHashModel;
 import org.eclipse.rdf4j.repository.RepositoryConnection;
 
 import oop.gen.DataGeneration;
@@ -12,18 +13,22 @@ import oop.model.ThucThe;
 public class Database {
 	EntityCreation create;
 	
-	private ArrayList<IRI> entityIRIs;
+	private LinkedHashModel modelEn, modelRela;
 	
 	private int numOfEn;
 	private int numOfRelate;
 	
 	public Database(int numOfEn, int numOfRelate) {
 		// TODO Auto-generated constructor stub
-		entityIRIs = new ArrayList<>(numOfEn);
+		modelEn = new LinkedHashModel(numOfEn);
+		modelRela = new LinkedHashModel(numOfRelate);
         create = new EntityCreation();
         this.numOfEn = numOfEn;
         this.numOfRelate = numOfRelate;
         createIRIs();
+        getConn().clear();
+        getConn().add(modelEn);
+        getConn().add(modelRela);
 	}
 	
 	public RepositoryConnection getConn() {
@@ -34,17 +39,19 @@ public class Database {
 		// TODO Auto-generated method stub
 		create = new EntityCreation();
 		DataGeneration dataGen = new DataGeneration();
+		ArrayList<ThucThe> listEn = new ArrayList<>();
+		listEn = dataGen.genData(numOfEn);
 		
-		ArrayList<ThucThe> listEn = new ArrayList<>(dataGen.genData(numOfEn));
-		ArrayList<Relationship> listRelate = new ArrayList<>(dataGen.genRelate(numOfRelate));
+		ArrayList<Relationship> listRelate = new ArrayList<>();
+		listRelate = dataGen.genRelate(numOfRelate);
 		
 		for(ThucThe en : listEn) {
-			IRI enIRI = create.createIRIEntity(en);
-			entityIRIs.add(enIRI);
+			LinkedHashModel enIRI = create.createModelEntity(en);
+			modelEn.addAll(enIRI);
 		}
 		
 		for(Relationship relate : listRelate) {
-			create.addRelation(relate);
+			modelRela.add(create.addRelation(relate));
 		}
 	}
 	

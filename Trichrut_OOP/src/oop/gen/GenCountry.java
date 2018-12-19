@@ -1,7 +1,6 @@
 package oop.gen;
 
 import java.io.File;
-import java.util.ArrayList;
 
 import oop.model.NguonGoc;
 import oop.file.GetSource;
@@ -17,30 +16,17 @@ public class GenCountry extends GenEntity{
 		this.listName = GetSource.read(fName);
 	}
 	
-	public ArrayList<ThucThe> generate(int amount) {
+	public ThucThe generate() {
 		// TODO Auto-generated method stub
-		ArrayList<ThucThe> listCountry = new ArrayList<>();
-		int i = 0;
-		while (i <= amount) {
 			String name = getRandom(listName);
-			NguonGoc  nguonGoc = getRandom(listNguon);
-			String ID = "COUNTRY" + i;
+			NguonGoc  nguonGoc = getRandom(listNguon);	
 			String descrip = name + " là một đất nước rất hiếu khách";
 
 			Country country = new Country();
-			country.setID(ID);
 			country.setNguon(nguonGoc);
 			country.setTenThucThe(name);
 			country.setMoTa(descrip);
 			
-			listCountry.add(country);
-			i ++;		
-		}
-		
-		return listCountry;
-	}
-	public static void main(String[] args) {
-		GenCountry gc = new GenCountry();
-		System.out.println(gc.generate(7000));
+		return country;
 	}
 }
