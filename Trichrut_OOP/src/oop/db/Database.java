@@ -1,7 +1,6 @@
 package oop.db;
 
 import java.util.ArrayList;
-import java.util.Collections;
 
 import org.eclipse.rdf4j.model.impl.LinkedHashModel;
 import org.eclipse.rdf4j.repository.RepositoryConnection;

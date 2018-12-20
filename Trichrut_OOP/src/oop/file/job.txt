@@ -1,3 +1,358 @@
-﻿AI engineer. 
-Machine Leaning Professional. 
-Block-chain Professinal.
+﻿AI engineer
+Machine Leaning Professional
+Block-chain Professinal
+học sinh
+sinh viên
+nông dân
+thợ xây
+quân nhân
+binh nhất
+giám đốc kĩ thuật
+giám đốc điều hành
+giám đốc công nghệ
+giám đốc bộ phận
+giám đốc khu vực
+giám đốc
+trưởng phòng bộ phận
+trường phòng
+trưởng phòng đầu tư
+giám đốc kế hoạch
+giám đốc marketing
+nhân viên bán hàng
+nhân viên sale
+nhân viên phục vụ
+nhân viên
+nhân viên quản lý
+tiếp viên hàng không
+doanh nhân
+nhà đầu tư
+nhà đầu cơ
+kĩ sư 
+kiến trúc sư
+lập trình viên
+giáo viên
+giảng viên
+trợ lý
+trợ giảng
+y tá
+tiến sĩ
+thủ quỹ
+quản công
+đốc công
+công an
+nhạc sĩ
+ca sĩ
+nhà thiết kế
+dược sĩ
+y sĩ
+cấp dưỡng
+nhân viên lễ tân
+nhân vien hậu cần
+tổng thống
+thủ tướng
+buôn bán
+tiểu thương
+kĩ sư hóa dầu
+kĩ sư hóa học
+giáo viên tiểu học
+giáo viên cấp 3
+giáo viên cấp 2
+nhân viên massage
+giám sát viên
+kiểm sát
+luật sư
+nhà phân tích
+họa sĩ
+bảo vệ
+bảo an
+vệ sĩ
+đầu bếp
+phụ bếp
+kĩ sư điện
+kĩ sư hệ thống
+kĩ sư kiểm định
+kĩ sư phân tích
+kĩ sư điện tử
+kĩ sư vận hành
+nhân viên thiết kế đồ họa
+nhân viên bán thời gian
+nhà vật lý học
+nhà vật lý lý thuyết
+nhà toán học
+kĩ sư tự động hóa
+nhân viên marketing
+nhà văn
+nhà báo
+giám đốc đài truyền hình
+giám đốc ngân hàng
+trưởng phòng hành chính
+trưởng phòng nhân sư
+giám đốc hành chính 
+giám đốc nhân sự
+lái xe
+nhân viên lái taxi
+electrical engineer
+truck driver
+coach
+epidemiologist
+customer service representative
+computer programmer
+artist
+writer
+photographer
+musician
+automotive mechanic
+cost estimator
+computer support specialist
+computer hardware engineer
+computer systems administrator
+artist
+marriage & family therapist
+registered nurse
+mathematician
+recreation & fitness worker
+psychologist
+recreational therapist
+dentist
+judge
+environmental scientist
+surveyor
+software developer
+housekeeper
+it manager
+school counselor
+dentist
+pharmacist
+urban planner
+cashier
+computer systems administrator
+mathematician
+microbiologist
+interpreter & translator
+high school teacher
+plumber
+event planner
+economist
+epidemiologist
+occupational therapist
+clinical laboratory technician
+surveyor
+budget analyst
+budget analyst
+judge
+accountant
+physical therapist
+loan officer
+musician
+auto mechanic
+food scientist
+drafter
+physicist
+firefighter
+respiratory therapist
+recreational therapist
+systems analyst
+physician
+medical secretary
+respiratory therapist
+maintenance & repair worker
+physical therapist
+paramedic
+teacher assistant
+substance abuse counselor
+registered nurse
+mechanical engineer
+civil engineer
+professional athlete
+telemarketer
+database administrator
+architect
+massage therapist
+truck driver
+zoologist
+reporter
+sports coach
+psychologist
+receptionist
+middle school teacher
+court reporter
+high school teacher
+painter
+art director
+attractive, with a lot of yellow
+dancer
+occupational therapist
+landscape architect
+zoologist
+real estate agent
+radiologic technologist
+computer programmer
+mason
+recreation & fitness worker
+diagnostic medical sonographer
+hr specialist
+carpenter
+radiologic technologist
+elementary school teacher
+janitor
+security guard
+bus driver
+drafter
+customer service representative
+automotive mechanic
+fitness trainer
+loan officer
+cashier
+hairdresser
+artistic and strange, with a lot of purple and gray
+janitor
+lawyer
+statistician
+elementary school teacher
+school psychologist
+secretary
+social worker
+preschool teacher
+art director
+web developer
+logistician
+pharmacist
+dancer
+computer systems analyst
+executive assistant
+desktop publisher
+systems analyst
+electrician
+chef
+construction manager
+farmer
+editor
+sports coach
+referee
+medical assistant
+personal care aide
+designer
+childcare worker
+electrical engineer
+maintenance & repair worker
+electrician
+human resources assistant
+auto mechanic
+physician
+lawyer
+educator
+hairdresser
+environmental scientist
+designer
+actor
+construction manager
+firefighter
+reporter
+carpenter
+librarian
+clinical laboratory technician
+teacher assistant
+dental hygienist
+paramedic
+marketing manager
+public relations specialist
+real estate agent
+paralegal
+artistic and risque, with a lot of black and green
+social worker
+attractive, with a lot of orange
+civil engineer
+plumber
+marriage & family therapist
+compliance officer
+desktop publisher
+professional athlete
+financial advisor
+executive assistant
+interpreter & translator
+market research analyst
+medical secretary
+compliance officer
+computer hardware engineer
+receptionist
+marketing manager
+painter
+landscaper & groundskeeper
+actuary
+writer
+web developer
+anthropologist
+anthropologist
+landscaper & groundskeeper
+event planner
+speech-language pathologist
+school psychologist
+food scientist
+computer systems analyst
+it manager
+telemarketer
+accountant
+market research analyst
+speech-language pathologist
+college professor
+educator
+insurance agent
+patrol officer
+childcare worker
+insurance agent
+computer support specialist
+landscape architect
+secretary
+microbiologist
+logistician
+urban planner
+police officer
+bookkeeping clerk
+coach
+personal care aide
+school counselor
+architect
+bus driver
+software developer
+hr specialist
+fitness trainer
+database administrator
+physicist
+mason
+bookkeeping clerk
+substance abuse counselor
+medical assistant
+human resources assistant
+economist
+court reporter
+security guard
+chemist
+statistician
+chemist
+preschool teacher
+mechanical engineer
+farmer
+dental hygienist
+chef
+diagnostic medical sonographer
+historian
+actuary
+financial advisor
+public relations specialist
+actor
+patrol officer
+paralegal
+middle school teacher
+housekeeper
+historian
+attractive
+librarian
+editor
+referee
+photographer
+college professor
+police officer
+veterinarian
+massage therapist
+veterinarian
+cost estimator

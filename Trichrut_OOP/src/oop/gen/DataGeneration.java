@@ -108,16 +108,16 @@ public class DataGeneration {
 		return listRelate;
 	}
 	
-	public static void main(String[] args) {
-		DataGeneration dg = new DataGeneration();
-		ArrayList<ThucThe> list = dg.genData(60000);
-		ArrayList<Relationship> listRe = dg.genRelate(80000);
-		
-		System.out.println(list);
-		System.out.println("sang cái khác");
-		System.out.println(listRe);
-		
-	}
+//	public static void main(String[] args) {
+//		DataGeneration dg = new DataGeneration();
+//		ArrayList<ThucThe> list = dg.genData(60000);
+//		ArrayList<Relationship> listRe = dg.genRelate(80000);
+//		
+//		System.out.println(list);
+//		System.out.println("sang cái khác");
+//		System.out.println(listRe);
+//		
+//	}
 	
 }
 

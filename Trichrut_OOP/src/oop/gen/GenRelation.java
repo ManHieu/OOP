@@ -17,20 +17,23 @@ import oop.model.Time;
 
 public class GenRelation {
 	private final Random RANDOM = new Random();
-	private ArrayList<String> relatePerson_Person, relatePerson_Ev, relatePerson_Local, relatePerson_Organ;
+	private ArrayList<String> relatePerson_Person, relatePerson_Ev, relatePerson_Local, relatePerson_Organ, relateEv_Local, relateOrgan_Ev;
 	
 	public GenRelation() {
 		// TODO Auto-generated constructor stub
-		File fRelatePerson_Person = new File("E:\\Git\\OOP\\Trichrut_OOP\\src\\oop\\file\\PvsP.txt");
-		File fRelatePerson_Ev = new File("E:\\Git\\OOP\\Trichrut_OOP\\src\\oop\\file\\PvsP.txt");
-		File fRelatePerson_Local = new File("E:\\Git\\OOP\\Trichrut_OOP\\src\\oop\\file\\PvsP.txt");
-		File fRelatePerson_Organ = new File("E:\\Git\\OOP\\Trichrut_OOP\\src\\oop\\file\\PvsP.txt");
+		File fRelatePerson_Person = new File("E:\\Git\\OOP\\Trichrut_OOP\\src\\oop\\file\\PtoP.txt");
+		File fRelatePerson_Ev = new File("E:\\Git\\OOP\\Trichrut_OOP\\src\\oop\\file\\person(organization)_to_event.txt");
+		File fRelatePerson_Local = new File("E:\\Git\\OOP\\Trichrut_OOP\\src\\oop\\file\\person_to_loaction.txt");
+		File fRelatePerson_Organ = new File("E:\\Git\\OOP\\Trichrut_OOP\\src\\oop\\file\\person_to_organization.txt");
+		File fRelateEv_Local = new File("E:\\Git\\OOP\\Trichrut_OOP\\src\\oop\\file\\event_to_locaton.txt");
+		File fRelateOrgan_Ev = new File("E:\\Git\\OOP\\Trichrut_OOP\\src\\oop\\file\\person(organization)_to_event.txt");
 		
 		this.relatePerson_Person = GetSource.read(fRelatePerson_Person);
 		this.relatePerson_Ev = GetSource.read(fRelatePerson_Ev);
 		this.relatePerson_Local = GetSource.read(fRelatePerson_Local);
 		this.relatePerson_Organ = GetSource.read(fRelatePerson_Organ);
-		
+		this.relateOrgan_Ev = GetSource.read(fRelateOrgan_Ev);
+		this.relateEv_Local = GetSource.read(fRelateEv_Local);
 	}
 	
 	private String getRandom(ArrayList<String> list) {
@@ -68,7 +71,7 @@ public class GenRelation {
 		}
 		if(en1 instanceof Organization) {
 			if(en2 instanceof Event) {
-				String relation = "tổ chức";
+				String relation = this.getRandom(relateOrgan_Ev);
 				relate.setQuanHe(relation);
 				return relate;
 			}
@@ -92,7 +95,7 @@ public class GenRelation {
 		}
 		if(en1 instanceof Event) {
 			if(en2 instanceof Location || en2 instanceof Country) {
-				String relation = "diễn ra tại";
+				String relation =  this.getRandom(relateEv_Local);
 				relate.setQuanHe(relation);
 				return relate;
 			}

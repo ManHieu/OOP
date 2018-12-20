@@ -1,9 +1,5 @@
 package opp.test;
 
-import java.sql.Time;
-import java.util.ArrayList;
-import java.util.Collections;
-
 import org.eclipse.rdf4j.model.Value;
 import org.eclipse.rdf4j.query.BindingSet;
 import org.eclipse.rdf4j.query.QueryLanguage;
@@ -17,7 +13,7 @@ public class App {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		Database db = new Database(1000, 2000);
+		Database db = new Database(100000, 200000);
 		RepositoryConnection conn = db.getConn();
 		
 		String query = "select ?o "
