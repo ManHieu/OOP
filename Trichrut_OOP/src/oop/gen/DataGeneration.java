@@ -16,6 +16,24 @@ public class DataGeneration {
 	private ArrayList<ThucThe> listEntities;
 	private ArrayList<Relationship> listRelate;
 	private final Random RANDOM = new Random();
+	private GenPerson gp;
+	private GenCountry gc;
+	private GenEvent ge;
+	private GenOrganization go;
+	private GenLocal gl;
+	private GenTime gt;
+	private GenRelation gr;
+	
+	public DataGeneration() {
+		// TODO Auto-generated constructor stub
+		gp = new GenPerson();
+		gc = new GenCountry();
+		ge = new GenEvent();
+		go = new  GenOrganization();
+		gl = new GenLocal();
+		gt = new GenTime();
+		gr = new GenRelation();
+	}
 	
 	private  ThucThe getRandom(ArrayList<ThucThe> list) {
 		// TODO Auto-generated method stub
@@ -35,7 +53,6 @@ public class DataGeneration {
 		int numberOfTime = a/9;
 		int numberOfPerson = amount - 20 - 2*a - a/9 - a/2;
 		
-		GenPerson gp = new GenPerson();
 		for(int i = 0; i < numberOfPerson; i ++) {
 			String ID = "PERSON" + i;
 			Person ps = (Person) gp.generate();
@@ -43,7 +60,6 @@ public class DataGeneration {
 			listEntities.add(ps);
 		}
 		
-		GenCountry gc = new GenCountry();
 		for(int i = 0; i < numberOfCountry; i ++) {
 			String ID = "COUNTRY" + i;
 			Country country = (Country) gc.generate();
@@ -51,7 +67,6 @@ public class DataGeneration {
 			listEntities.add(country);
 		}
 		
-		GenEvent ge = new GenEvent();
 		for(int i = 0; i < numberOfEvent; i ++) {
 			String ID = "EVENT" + i;
 			Event ev = (Event) ge.generate();
@@ -59,7 +74,6 @@ public class DataGeneration {
 			listEntities.add(ev);
 		}
 		
-		GenOrganization go = new  GenOrganization();
 		for(int i = 0; i < numberOfOrganization; i ++) {
 			String ID = "ORGANIZATION" + i;
 			Organization organ = (Organization) go.generate();
@@ -67,7 +81,6 @@ public class DataGeneration {
 			listEntities.add(organ);
 		}
 		
-		GenLocal gl = new GenLocal();
 		for(int i = 0; i < numberOfLocation; i ++) {
 			String ID = "LOCAL" + i;
 			Location local = (Location) gl.generate();
@@ -75,7 +88,6 @@ public class DataGeneration {
 			listEntities.add(local);
 		}
 		
-		GenTime gt = new GenTime();
 		for(int i = 0; i < numberOfTime; i ++) {
 			String ID = "TIME" + i;
 			Time time = (Time) gt.generate();
@@ -91,16 +103,15 @@ public class DataGeneration {
 		if(listEntities == null) return null;
 		
 		this.listRelate = new ArrayList<>(amount);
-		GenRelation gr = new GenRelation();
 		
 		int count = 0;
 		while(count <= amount) {
 			ThucThe en1 = getRandom(listEntities);
 			ThucThe en2 = getRandom(listEntities);
-			if(en1.equals(en2)) continue;
 			Relationship relate = gr.genRelate(en1, en2);
 			if(relate != null) {
 				listRelate.add(relate);
+				
 				count ++;
 			}
 		}
@@ -109,16 +120,13 @@ public class DataGeneration {
 	}
 	
 //	public static void main(String[] args) {
+//		long t1 = System.currentTimeMillis();
 //		DataGeneration dg = new DataGeneration();
-//		ArrayList<ThucThe> list = dg.genData(60000);
-//		ArrayList<Relationship> listRe = dg.genRelate(80000);
-//		
-//		System.out.println(list);
-//		System.out.println("sang cái khác");
-//		System.out.println(listRe);
-//		
+//		System.out.println(dg.genData(1000000));
+//		System.out.println(dg.genRelate(2000000));
+//		System.out.println(System.currentTimeMillis() - t1);
+////		System.out.println(java.lang.Runtime.getRuntime().maxMemory());
 //	}
-	
 }
 
 

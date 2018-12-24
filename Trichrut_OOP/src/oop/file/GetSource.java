@@ -19,7 +19,7 @@ public class GetSource {
 			String line;
 			while((line = br.readLine()) != null) {
 				 String str = line;
-				 if(str != null) list.add(str);
+				 list.add(str);
 			}
 			
 			br.close();

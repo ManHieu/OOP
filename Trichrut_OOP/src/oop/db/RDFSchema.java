@@ -7,7 +7,7 @@ import org.eclipse.rdf4j.repository.RepositoryConnection;
 public class RDFSchema {
 	
 	RepositoryConnection repoConn;
-	ValueFactory vf;
+	protected ValueFactory vf;
 	
 	final String NAMESPACE = "http://example.com/virtuoso#1/";
 	
@@ -127,8 +127,24 @@ public class RDFSchema {
 	}
 	
 //	public static void main(String[] args) {
-//		RDFSchema schema = new RDFSchema();
-//		System.out.println(schema.getCountry());
+//		RDFSchema s = new RDFSchema();
+//		System.out.println(s.age);
+//		System.out.println(s.country);
+//		System.out.println(s.date);
+//		System.out.println(s.descrip);
+//		System.out.println(s.estaYear);
+//		System.out.println(s.event);
+//		System.out.println(s.headquater);
+//		System.out.println(s.job);
+//		System.out.println(s.link);
+//		System.out.println(s.location);
+//		System.out.println(s.name);
+//		System.out.println(s.nguonGoc);
+//		System.out.println(s.organization);
+//		System.out.println(s.person);
+//		System.out.println(s.province);
+//		System.out.println(s.relation);
+//		System.out.println(s.time);
 //	}
 }
 

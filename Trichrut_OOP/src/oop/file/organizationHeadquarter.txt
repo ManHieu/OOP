@@ -1,244 +1,244 @@
-Ouagadougou, Burkina Faso
-Porto Alegre, Brazil
-Palembang, Indonesia
-Bengaluru, India
-Suwon, South Korea
-Hefei, China
-Manila, Philippines
-Omsk, Russia
-Dar es Salaam, Tanzania
-Budapest, Hungary
-Mumbai, India
-Hanoi, Vietnam
-Tunis, Tunisia
-Paris, France
-Medellin, Colombia
-Delhi, India
-Astana, Kazakhstan
-Brazzaville, Congo Republic
-Tashkent, Uzbekistan
-Xi'an, China
-Moscow, Russia
-Sydney, Australia
-Guayaquil, Ecuador
-Kampala, Uganda
-Zhongshan, China
-Yaoundé, Cameroon
-Lucknow, India
-Caracas, Venezuela
-São Paulo, Brazil
-Jakarta, Indonesia
-Prague, Czech Republic
-Rio de Janeiro, Brazil
-Tianjin, China
-Singapore, Singapore
-Seoul, Korea,South
-Bulawayo, Zimbabwe
-Kawasaki, Japan
-Johannesburg, South Africa
-Santa Cruz de la Sierra, Bolivia
-Tokyo, Japan
-Jeddah, Saudi Arabia
-Kobe, Japan
-Bhopal, India
-Birmingham, United Kingdom
-New York City, United States
-Kinshasa, DR Congo
-Vienna, Austria
-Pune, India
-Rome, Italy
-Islamabad, Pakistan
-Ho Chi Minh City, Vietnam
-Mandalay, Myanmar
-Nanjing, China
-Tehran, Iran
-Faisalabad, Pakistan
-New Taipei City, Taiwan
-Ankara, Turkey
-Kathmandu,   Nepal
-Jaipur, India
-Campinas, Brazil
-Baku, Azerbaijan
-Karaj, Iran
-Gujranwala, Pakistan
-Guangzhou, China
-Fez, Morocco
-Suzhou, China
-Fuzhou, China
-Accra, Ghana
-Tabriz, Iran
-Nizhny Novgorod, Russia
-Maputo, Mozambique
-Belo Horizonte, Brazil
-Davao City, Philippines
-Karachi, Pakistan
-Kabul, Afghanistan
-Chengdu, China
-Dongguan, China
-Kano, Nigeria
-Hyderabad, Pakistan
-Yokohama, Japan
-Auckland, New Zealand
-Daegu, South
-Milan, Italy
-Managua, Nicaragua
-Nagpur, India
-Novosibirsk, Russia
-Santiago, Chile
-Kyoto, Japan
-Sapporo, Japan
-Mashhad, Iran
-Hong Kong, China
-İzmir, Turkey
-Kiev, Ukraine
-Caloocan, Philippines
-Hiroshima, Japan
-Curitiba, Brazil
-Ibadan, Nigeria
-Saint Petersburg, Russia
-Chennai, India
-Xiamen, China
-Belgrade, Serbia
-Qom, Iran
-Phoenix, United States
-Hamburg, Germany
-Abidjan, Ivory Coast
-Shenzhen, China
-Medan, Indonesia
-Ahvaz, Iran
-Shenyang, China
-Changsha, China
-Buenos Aires, Argentina
-Dhaka, Bangladesh
-Daejeon, South
-Ulsan, South
-Almaty, Kazakhstan
-Bogotá, Colombia
-Casablanca, Morocco
-Kolkata, India
-Quito, Ecuador
-Wuhan, China
-Quanzhou, China
-Berlin, Germany
-Brisbane, Australia
-Cape Town, South Africa
-Hangzhou, China
-Los Angeles, United States
-Dubai, United Arab Emirates
-Kanpur, India
-Kaohsiung, Taiwan
-Qingdao, China
-Tainan, Taiwan
-Algiers, Algeria
-Riyadh, Saudi Arabia
-Makassar, Indonesia
-Yerevan, Armenia
-Maracaibo, Venezuela
-Pyongyang, North
-Cairo, Egypt
-Melbourne, Australia
-Hyderabad, India
-Barranquilla, Colombia
-T'bilisi, Georgia
-Patna, India
-Alexandria, Egypt
-San Antonio, United States
-Nairobi, Kenya
-Guadalajara, Mexico
-Foshan, China
-Fortaleza, Brazil
-Isfahan, Iran
-Córdoba, Argentina
-Mexico City, Mexico
-Houston, UnitedStates
-Toronto, Canada
-Chongqing, China
-Surabaya, Indonesia
-Rostov-on-Don, Russia
-Sofia, Bulgaria
-Chittagong, Bangladesh
-Semarang, Indonesia
-Quezon City, Philippines
-Abu Dhabi, United Arab Emirates
-Kuala Lumpur, Malaysia
-Saitama, Japan
-Taipei, Taiwan
-Shiraz, Iran
-Recife, Brazil
-Guatemala City, Guatemala
-Oran, Algeria
-Havana, Cuba
-Kwangju,Korea, South
-Incheon, South
-Montreal, Canada
-Yekaterinburg, Russia
-Zhengzhou, China
-Khartoum, Sudan
-Lima, Peru
-Philadelphia, United States
-Montevideo, Uruguay
-Salvador, Brazil
-Shijiazhuang, China
-Tijuana, Mexico
-Shantou, China
-Ekurhuleni, South Africa
-Tangshan, China
-Shanghai, China
-Dalian, China
-Lahore, Pakistan
-San Diego, United States
-Taichung, Taiwan
-Minsk, Belarus
-Ahmedabad, India
-Cali, Colombia
-Monterrey, Mexico
-Warsaw, Poland
-Chicago, UnitedStates
-Ningbo, China
-Harbin, China
-Bucharest, Romania
-Basra, Iraq
-Madrid, Spain
-Beijing, China
-Brasília, Brazil
-Fukuoka, Japan
-Changchun, China
-Osaka, Japan
-Zunyi, China
-Surat, India
-Phnom Penh, Cambodia
-Visakhapatnam, India
-Dakar, Senegal
-London, United Kingdom
-Peshawar, Pakistan
-Vijayawada, India
-Calgary, Canada
-Baghdad, Iraq
-Lusaka, Zambia
-Giza, Egypt
-Addis Ababa, Ethiopia
-Yangon, Myanmar
-Busan, Korea,South
-Durban, South Africa
-Tripoli, Libya
-Nagoya, Japan
-Rosario, Argentina
-Barcelona, Spain
-Abuja, Nigeria
-Bandung, Indonesia
-Munich, Germany
-Dallas, United States
-Douala, Cameroon
-Harare, Zimbabwe
-Cologne, Germany
-Chaozhou, China
-Lagos, Nigeria
-Luanda, Angola
-Lanzhou, China
-Bangkok, Thailand
-Kharkiv, Ukraine
-Istanbul, Turkey
-Rawalpindi, Pakistan
-Wenzhou, China
-Jinan, China
-Sana'a, Yemen
+Ouagadougou,_Burkina_Faso
+Porto_Alegre,_Brazil
+Palembang,_Indonesia
+Bengaluru,_India
+Suwon,_South_Korea
+Hefei,_China
+Manila,_Philippines
+Omsk,_Russia
+Dar_es_Salaam,_Tanzania
+Budapest,_Hungary
+Mumbai,_India
+Hanoi,_Vietnam
+Tunis,_Tunisia
+Paris,_France
+Medellin,_Colombia
+Delhi,_India
+Astana,_Kazakhstan
+Brazzaville,_Congo_Republic
+Tashkent,_Uzbekistan
+Xi'an,_China
+Moscow,_Russia
+Sydney,_Australia
+Guayaquil,_Ecuador
+Kampala,_Uganda
+Zhongshan,_China
+Yaoundé,_Cameroon
+Lucknow,_India
+Caracas,_Venezuela
+São_Paulo,_Brazil
+Jakarta,_Indonesia
+Prague,_Czech_Republic
+Rio_de_Janeiro,_Brazil
+Tianjin,_China
+Singapore,_Singapore
+Seoul,_Korea,South
+Bulawayo,_Zimbabwe
+Kawasaki,_Japan
+Johannesburg,_South_Africa
+Santa_Cruz_de_la_Sierra,_Bolivia
+Tokyo,_Japan
+Jeddah,_Saudi_Arabia
+Kobe,_Japan
+Bhopal,_India
+Birmingham,_United_Kingdom
+New_York_City,_United_States
+Kinshasa,_DR_Congo
+Vienna,_Austria
+Pune,_India
+Rome,_Italy
+Islamabad,_Pakistan
+Ho_Chi_Minh_City,_Vietnam
+Mandalay,_Myanmar
+Nanjing,_China
+Tehran,_Iran
+Faisalabad,_Pakistan
+New_Taipei_City,_Taiwan
+Ankara,_Turkey
+Kathmandu,___Nepal
+Jaipur,_India
+Campinas,_Brazil
+Baku,_Azerbaijan
+Karaj,_Iran
+Gujranwala,_Pakistan
+Guangzhou,_China
+Fez,_Morocco
+Suzhou,_China
+Fuzhou,_China
+Accra,_Ghana
+Tabriz,_Iran
+Nizhny_Novgorod,_Russia
+Maputo,_Mozambique
+Belo_Horizonte,_Brazil
+Davao_City,_Philippines
+Karachi,_Pakistan
+Kabul,_Afghanistan
+Chengdu,_China
+Dongguan,_China
+Kano,_Nigeria
+Hyderabad,_Pakistan
+Yokohama,_Japan
+Auckland,_New_Zealand
+Daegu,_South
+Milan,_Italy
+Managua,_Nicaragua
+Nagpur,_India
+Novosibirsk,_Russia
+Santiago,_Chile
+Kyoto,_Japan
+Sapporo,_Japan
+Mashhad,_Iran
+Hong_Kong,_China
+İzmir,_Turkey
+Kiev,_Ukraine
+Caloocan,_Philippines
+Hiroshima,_Japan
+Curitiba,_Brazil
+Ibadan,_Nigeria
+Saint_Petersburg,_Russia
+Chennai,_India
+Xiamen,_China
+Belgrade,_Serbia
+Qom,_Iran
+Phoenix,_United_States
+Hamburg,_Germany
+Abidjan,_Ivory_Coast
+Shenzhen,_China
+Medan,_Indonesia
+Ahvaz,_Iran
+Shenyang,_China
+Changsha,_China
+Buenos_Aires,_Argentina
+Dhaka,_Bangladesh
+Daejeon,_South
+Ulsan,_South
+Almaty,_Kazakhstan
+Bogotá,_Colombia
+Casablanca,_Morocco
+Kolkata,_India
+Quito,_Ecuador
+Wuhan,_China
+Quanzhou,_China
+Berlin,_Germany
+Brisbane,_Australia
+Cape_Town,_South_Africa
+Hangzhou,_China
+Los_Angeles,_United_States
+Dubai,_United_Arab_Emirates
+Kanpur,_India
+Kaohsiung,_Taiwan
+Qingdao,_China
+Tainan,_Taiwan
+Algiers,_Algeria
+Riyadh,_Saudi_Arabia
+Makassar,_Indonesia
+Yerevan,_Armenia
+Maracaibo,_Venezuela
+Pyongyang,_North
+Cairo,_Egypt
+Melbourne,_Australia
+Hyderabad,_India
+Barranquilla,_Colombia
+T'bilisi,_Georgia
+Patna,_India
+Alexandria,_Egypt
+San_Antonio,_United_States
+Nairobi,_Kenya
+Guadalajara,_Mexico
+Foshan,_China
+Fortaleza,_Brazil
+Isfahan,_Iran
+Córdoba,_Argentina
+Mexico_City,_Mexico
+Houston,_UnitedStates
+Toronto,_Canada
+Chongqing,_China
+Surabaya,_Indonesia
+Rostov-on-Don,_Russia
+Sofia,_Bulgaria
+Chittagong,_Bangladesh
+Semarang,_Indonesia
+Quezon_City,_Philippines
+Abu_Dhabi,_United_Arab_Emirates
+Kuala_Lumpur,_Malaysia
+Saitama,_Japan
+Taipei,_Taiwan
+Shiraz,_Iran
+Recife,_Brazil
+Guatemala_City,_Guatemala
+Oran,_Algeria
+Havana,_Cuba
+Kwangju,Korea,_South
+Incheon,_South
+Montreal,_Canada
+Yekaterinburg,_Russia
+Zhengzhou,_China
+Khartoum,_Sudan
+Lima,_Peru
+Philadelphia,_United_States
+Montevideo,_Uruguay
+Salvador,_Brazil
+Shijiazhuang,_China
+Tijuana,_Mexico
+Shantou,_China
+Ekurhuleni,_South_Africa
+Tangshan,_China
+Shanghai,_China
+Dalian,_China
+Lahore,_Pakistan
+San_Diego,_United_States
+Taichung,_Taiwan
+Minsk,_Belarus
+Ahmedabad,_India
+Cali,_Colombia
+Monterrey,_Mexico
+Warsaw,_Poland
+Chicago,_UnitedStates
+Ningbo,_China
+Harbin,_China
+Bucharest,_Romania
+Basra,_Iraq
+Madrid,_Spain
+Beijing,_China
+Brasília,_Brazil
+Fukuoka,_Japan
+Changchun,_China
+Osaka,_Japan
+Zunyi,_China
+Surat,_India
+Phnom_Penh,_Cambodia
+Visakhapatnam,_India
+Dakar,_Senegal
+London,_United_Kingdom
+Peshawar,_Pakistan
+Vijayawada,_India
+Calgary,_Canada
+Baghdad,_Iraq
+Lusaka,_Zambia
+Giza,_Egypt
+Addis_Ababa,_Ethiopia
+Yangon,_Myanmar
+Busan,_Korea,South
+Durban,_South_Africa
+Tripoli,_Libya
+Nagoya,_Japan
+Rosario,_Argentina
+Barcelona,_Spain
+Abuja,_Nigeria
+Bandung,_Indonesia
+Munich,_Germany
+Dallas,_United_States
+Douala,_Cameroon
+Harare,_Zimbabwe
+Cologne,_Germany
+Chaozhou,_China
+Lagos,_Nigeria
+Luanda,_Angola
+Lanzhou,_China
+Bangkok,_Thailand
+Kharkiv,_Ukraine
+Istanbul,_Turkey
+Rawalpindi,_Pakistan
+Wenzhou,_China
+Jinan,_China
+Sana'a,_Yemen

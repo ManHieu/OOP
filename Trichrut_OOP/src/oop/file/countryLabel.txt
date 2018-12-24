@@ -1,21 +1,21 @@
-Ả Rập Xê Út
+﻿Ả_Rập_Xê_Út
 Afghanistan
-Ai Cập
+Ai_Cập
 Albania
 Algeria
-Ấn Độ
+Ấn_Độ
 Andorra
 Angola
 Anguilla
 Anh
-Antigua và Barbuda
-Antilles thuộc Hà Lan
+Antigua_và_Barbuda
+Antilles_thuộc_Hà_Lan
 Áo
 Argentina
 Armenia
 Aruba
 Azerbaijan
-Ba Lan
+Ba_Lan
 Bahamas
 Bahrain
 Bangladesh
@@ -26,42 +26,42 @@ Bénin
 Bermuda
 Bhutan
 Bỉ
-Bờ Biển Ngà
-Bồ Đào Nha
+Bờ_Biển_Ngà
+Bồ_Đào_Nha
 Bolivia
 Bonaire
-Bosnia và Herzegovina
+Bosnia_và_Herzegovina
 Botswana
 Brazil
 Brunei
 Bulgaria
-Burkina Faso
+Burkina_Faso
 Burundi
-Các tiểu vương quốc Ả Rập Thống nhất
+Các_tiểu_vương_quốc_Ả_Rập_Thống_nhất
 Cameroon
 Campuchia
 Canada
-Cape Verde
+Cape_Verde
 Chad
 Chile
 Colombia
 Comoros
-Cộng hòa Congo
-Cộng hòa dân chủ Congo
-Cộng hòa Dominican
-Cộng hòa Séc
-Cộng hòa Trung Phi
-Costa Rica
+Cộng_hòa_Congo
+Cộng_hòa_dân_chủ_Congo
+Cộng_hòa_Dominican
+Cộng_hòa_Séc
+Cộng_hòa_Trung_Phi
+Costa_Rica
 Croatia
 Cuba
 Djibouti
 Dominica
-Đài Loan
-Đan Mạch
-Đông Timor
+Đài_Loan
+Đan_Mạch
+Đông_Timor
 Đức
 Ecuador
-El Salvador
+El_Salvador
 Eritrea
 ﻿Estonia
 Ethiopia
@@ -74,18 +74,18 @@ Grenada
 Guadeloupe
 Guam
 Guatemala
-Guiana thuộc Pháp
+Guiana_thuộc_Pháp
 Guinea
-Guinea Xích đạo
+Guinea_Xích_đạo
 Guinea-Bissau
 Guyana
-Hà Lan
+Hà_Lan
 Haiti
-Hàn Quốc
-Hoa Kỳ
+Hàn_Quốc
+Hoa_Kỳ
 Honduras
 Hungary
-Hy Lạp
+Hy_Lạp
 Iceland
 Indonesia
 Iran
@@ -106,7 +106,7 @@ Liban
 Liberia
 Libya
 Liechtenstein
-Liên bang Micronesia
+Liên_bang_Micronesia
 Lithuania
 Luxembourg
 Ma-rốc
@@ -123,21 +123,21 @@ Mauritius
 Mexico
 ﻿Moldova
 Monaco
-Mông Cổ
+Mông_Cổ
 Montenegro
 Montserrat
 Mozambique
 Myanmar
-Na Uy
-Nam Phi
-Nam Sudan
+Na_Uy
+Nam_Phi
+Nam_Sudan
 Namibia
 Nauru
 Nepal
-New Caledonia
-New Zealand
+New_Caledonia
+New_Zealand
 Nga
-Nhật Bản
+Nhật_Bản
 Nicaragua
 Niger
 Nigeria
@@ -146,68 +146,68 @@ Pakistan
 Palau
 Palestine
 Panama
-Papua New Guinea
+Papua_New_Guinea
 Paraguay
 Peru
-Phần Lan
+Phần_Lan
 Pháp
 Philippines
 Pitcairn
-Polynesia thuộc Pháp
-Puerto Rico
+Polynesia_thuộc_Pháp
+Puerto_Rico
 Qatar
-Quần đảo Bắc Mariana
-Quần đảo Cayman
-Quần đảo Falkland
-Quần đảo Marshall
-Quần đảo Nam Georgia và Nam Sandwich
-Quần đảo Solomon
-Quần đảo Turks và Caicos
-Quần đảo Virgin thuộc Anh
-Quần đảo Virgin thuộc Mỹ
-Réunion (Pháp)
+Quần_đảo_Bắc_Mariana
+Quần_đảo_Cayman
+Quần_đảo_Falkland
+Quần_đảo_Marshall
+Quần_đảo_Nam_Georgia_và_Nam_Sandwich
+Quần_đảo_Solomon
+Quần_đảo_Turks_và_Caicos
+Quần_đảo_Virgin_thuộc_Anh
+Quần_đảo_Virgin_thuộc_Mỹ
+Réunion_(Pháp)
 Romania
 Rwanda
-Saint Helena
-Saint Kitts và Nevis
-Saint Lucia
-Saint Martin
-Saint Pierre và Miquelon
-Saint Vincent và Grenadines
+Saint_Helena
+Saint_Kitts_và_Nevis
+Saint_Lucia
+Saint_Martin
+Saint_Pierre_và_Miquelon
+Saint_Vincent_và_Grenadines
 Saint-Barthélemy
 Samoa
-Samoa thuộc Mỹ
-San Marino
-São Tomé và Príncipe
+Samoa_thuộc_Mỹ
+San_Marino
+São_Tomé_và_Príncipe
 Senegal
 Serbia
 Seychelles
-Sierra Leone
+Sierra_Leone
 Singapore
-Sint Maarten
+Sint_Maarten
 Síp
 Slovakia
 Slovenia
 Somalia
-Sri Lanka
+Sri_Lanka
 Sudan
 Suriname
 Swaziland
 Syria
 Tajikistan
 Tanzania
-Tây Ban Nha
-Tây Sahara
-Thái Lan
-Thành Vatican
-Thổ Nhĩ Kỳ
-Thụy Điển
-Thụy Sĩ
+Tây_Ban_Nha
+Tây_Sahara
+Thái_Lan
+Thành_Vatican
+Thổ_Nhĩ_Kỳ
+Thụy_Điển
+Thụy_Sĩ
 Togo
 Tonga
-Triều Tiên
-Trinidad và Tobago
-Trung Quốc
+Triều_Tiên
+Trinidad_và_Tobago
+Trung_Quốc
 Tunisia
 Turkmenistan
 Tuvalu
@@ -218,7 +218,7 @@ Uruguay
 Uzbekistan
 Vanuatu
 Venezuela
-Việt Nam
+Việt_Nam
 Ý
 Yemen
 Zambia

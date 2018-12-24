@@ -77,19 +77,19 @@ public class GenRelation {
 			}
 			if(en2 instanceof Location || en2 instanceof Country) {
 				ArrayList<String> list = new ArrayList<>();
-				Collections.addAll(list, "mở chi nhánh tại", "đầu tư vào");
+				Collections.addAll(list, "mở_chi_nhánh_tại", "đầu_tư_vào");
 				relate.setQuanHe(getRandom(list));
 				return relate;
 			}
 			if(en2 instanceof Organization) {
 				ArrayList<String> list = new ArrayList<>();
-				Collections.addAll(list, "hợp tác với", "mua lại", "đầu tư vào");
+				Collections.addAll(list, "hợp_tác_với", "mua_lại", "đầu_tư_vào");
 				relate.setQuanHe(getRandom(list));
 				return relate;
 			}
 		}
 		if((en1 instanceof Location || en1 instanceof Country) && (en2 instanceof Event)) {
-			String relation = "tổ chức";
+			String relation = "tổ_chức";
 			relate.setQuanHe(relation);
 			return relate;
 		}
@@ -100,7 +100,7 @@ public class GenRelation {
 				return relate;
 			}
 			if(en2 instanceof Time) {
-				String relation = "diễn ra vào";
+				String relation = "diễn_ra_vào";
 				relate.setQuanHe(relation);
 				return relate;
 			}

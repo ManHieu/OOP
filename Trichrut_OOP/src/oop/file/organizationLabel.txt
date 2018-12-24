@@ -1,358 +1,359 @@
-The Walt Disney Company
+Apple
+The_Walt_Disney_Company
 Chase
-Ferrari S.p.A.
+Ferrari_S.p.A.
 Yahoo!
 Sprite
-Siemens AG
+Siemens_AG
 3M
-Samsung Group
-Jack Daniel's
+Samsung_Group
+Jack_Daniel's
 Mitsubishi
 Canon
 Porsche
 Hermès
-Volkswagen Group
+Volkswagen_Group
 AT&T
-Ralph Lauren Corporation
+Ralph_Lauren_Corporation
 Zara
 Gucci
-Caterpillar Inc.
+Caterpillar_Inc.
 MTV
-Cartier SA
+Cartier_SA
 MasterCard
 Nescafé
-Gap Inc.
-Tesco Corporation
-Louis Vuitton
-Apple Inc.
-Budweiser Stag Brewing Company
+Gap_Inc.
+Tesco_Corporation
+Louis_Vuitton
+Apple_Inc.
+Budweiser_Stag_Brewing_Company
 HSBC
 eBay
 Starbucks
 Coca-Cola
-Johnson & Johnson
-Nissan Motor Co., Ltd.
+Johnson_&_Johnson
+Nissan_Motor_Co.,_Ltd.
 Citigroup
 Audi
-Home Depot
+Home_Depot
 IKEA
 Wal-Mart
 Hyundai
 Beko
-Kellogg Company
-Deere & Company
+Kellogg_Company
+Deere_&_Company
 L'Oréal
 Avon
-United Parcel Service
+United_Parcel_Service
 Nintendo
-Nike, Inc.
+Nike,_Inc.
 Pampers
-Verizon Communications
-Facebook, Inc.
+Verizon_Communications
+Facebook,_Inc.
 Allianz
 Corona
-NTT Data
+NTT_Data
 KFC
 Smirnoff
 SAP
 Adidas
-Panasonic Corporation
-American Express
-Morgan Stanley
-Pizza Hut
+Panasonic_Corporation
+American_Express
+Morgan_Stanley
+Pizza_Hut
 Vodafone
-Shell Oil Company
+Shell_Oil_Company
 BlackBerry
-Harley-Davidson Motor Company
+Harley-Davidson_Motor_Company
 Kleenex
-Moët et Chandon
+Moët_et_Chandon
 Sony
 PepsiCo
 Hewlett-Packard
-Johnnie Walker
-Toyota Motor Corporation
-Bank of America
-Heineken Brewery
-Credit Suisse
-Oracle Corporation
+Johnnie_Walker
+Toyota_Motor_Corporation
+Bank_of_America
+Heineken_Brewery
+Credit_Suisse
+Oracle_Corporation
 Amazon.com
 IBM
-Kia Motors
+Kia_Motors
 Xerox
 Prada
 Google
-Intel Corporation
-Adobe Systems
-Global Gillette
-Wells Fargo
+Intel_Corporation
+Adobe_Systems
+Global_Gillette
+Wells_Fargo
 Microsoft
 McDonald's
 Burberry
-Tiffany & Co.
+Tiffany_&_Co.
 H&M
-Honda Motor Company, Ltd
+Honda_Motor_Company,_Ltd
 Nokia
-General Electric
-Cisco Systems, Inc.
+General_Electric
+Cisco_Systems,_Inc.
 Mercedes-Benz
 VISA
 BMW
-100 People: A World Portrait
-3HS India
-Action for Happiness
-African Development Bank
-African Monitor
-African Union
-Akkam Overseas
-All Party Parliamentary Group on Wellbeing Economics (UK)
-Amsterdam Smart City 
-Apex Visas 
-Arizona Indicators
-Australian Bureau of Statistics
-Australian Centre on Quality of Life 
-Australian National Development Index (ANDI) Limited
-Australian Research Alliance for Children and Youth
-Basel Institute of Commons and Economics
-Bayaweaver 
-Bertelsmann Stiftung 
-BES Benessere Equo Sostenible
-Bangladesh Model Youth Parliament
-Bonn International Center for Conversion
+100_People:_A_World_Portrait
+3HS_India
+Action_for_Happiness
+African_Development_Bank
+African_Monitor
+African_Union
+Akkam_Overseas
+All_Party_Parliamentary_Group_on_Wellbeing_Economics_(UK)
+Amsterdam_Smart_City_
+Apex_Visas_
+Arizona_Indicators
+Australian_Bureau_of_Statistics
+Australian_Centre_on_Quality_of_Life_
+Australian_National_Development_Index_(ANDI)_Limited
+Australian_Research_Alliance_for_Children_and_Youth
+Basel_Institute_of_Commons_and_Economics
+Bayaweaver_
+Bertelsmann_Stiftung_
+BES_Benessere_Equo_Sostenible
+Bangladesh_Model_Youth_Parliament
+Bonn_International_Center_for_Conversion
 BRAINPOol
-Canadian Index of Wellbeing
-CARE International 
-Carnegie UK Trust 
-Cart2India Online Pvt Ltd
-Center for Global Development 
-Central Statistics Office, Ireland
-Centre For Bhutan Studies & GNH Research
-Centro de Estudios para el Bienestar, University of Monterrey
+Canadian_Index_of_Wellbeing
+CARE_International_
+Carnegie_UK_Trust_
+Cart2India_Online_Pvt_Ltd
+Center_for_Global_Development_
+Central_Statistics_Office,_Ireland
+Centre_For_Bhutan_Studies_&_GNH_Research
+Centro_de_Estudios_para_el_Bienestar,_University_of_Monterrey
 CGIAR
-Child Research Net
-Child Trends (Data Bank)
-ChildFund International
-Children's Rights Alliance
-Cities of Service
+Child_Research_Net
+Child_Trends_(Data_Bank)
+ChildFund_International
+Children's_Rights_Alliance
+Cities_of_Service
 CivicApps
 CivicLab
 Civicus
-Colorado Children’s Campaign
-Commonwealth Youth Programme 
-Community Accounts
-Community Indicators Victoria
+Colorado_Children’s_Campaign
+Commonwealth_Youth_Programme_
+Community_Accounts
+Community_Indicators_Victoria
 CONEVAL
-Consejo Nacional de la Infancia
-Council of Europe
-International Journal of Advanced Research in Biological Sciences
-Devatop Centre for Africa Development
-Direct Relief
-Diverse Immigration Services
-Divine Act Charitable Trust
-Dreamline India
+Consejo_Nacional_de_la_Infancia
+Council_of_Europe
+International_Journal_of_Advanced_Research_in_Biological_Sciences
+Devatop_Centre_for_Africa_Development
+Direct_Relief
+Diverse_Immigration_Services
+Divine_Act_Charitable_Trust
+Dreamline_India
 E-Frame
-Economic Planning Unit. Prime Minister’s Department. Malaysia
-Environmental Performance Index
-Environmental Vulnerability Index
-Erasmus Happiness Economics Research Organisation 
-ERCAS European Research Centre for Anti-Corruption and State-Building
+Economic_Planning_Unit._Prime_Minister’s_Department._Malaysia
+Environmental_Performance_Index
+Environmental_Vulnerability_Index
+Erasmus_Happiness_Economics_Research_Organisation_
+ERCAS_European_Research_Centre_for_Anti-Corruption_and_State-Building
 Eurochild
 EUROCITIES
 Eurofound
-European Centre for Social Welfare Policy and Research
-European Commission
-European Environment Agency 
-European Institute for Gender Equality
-European Youth Forum
+European_Centre_for_Social_Welfare_Policy_and_Research
+European_Commission
+European_Environment_Agency_
+European_Institute_for_Gender_Equality
+European_Youth_Forum
 Eurostat
 Eventilio
-Fabrique Spinoza
-Feed the Future
-Foro Consultivo Científico y Tecnológico 
-Foundation for Child Development
-FPAI Family Planning Association of India 
-Freedom House
-Fund for Peace
-Gallup and Healthways
-Genuine Progress 
-German Federal Government
-Gill Broking
-Global AgeWatch Index
-Global Footprint Network
-Global Integrity
-Global Youth Wellbeing Index
+Fabrique_Spinoza
+Feed_the_Future
+Foro_Consultivo_Científico_y_Tecnológico_
+Foundation_for_Child_Development
+FPAI_Family_Planning_Association_of_India_
+Freedom_House
+Fund_for_Peace
+Gallup_and_Healthways
+Genuine_Progress_
+German_Federal_Government
+Gill_Broking
+Global_AgeWatch_Index
+Global_Footprint_Network
+Global_Integrity
+Global_Youth_Wellbeing_Index
 GlobalStat
-Goel Ganga Developments
-Green City Index
-GRi Technology Consortium 
-Gross National Happiness USA
-Happiness Alliance
-Happiness Research Institute
+Goel_Ganga_Developments
+Green_City_Index
+GRi_Technology_Consortium_
+Gross_National_Happiness_USA
+Happiness_Alliance
+Happiness_Research_Institute
 Hedonometer
-Hiranandani Communities
-Houston Sustainability Indicators
-Humanistic Management Center
-Hungarian Central Statistics Office
-Hunger And Nutrition Commitment Index
-Hybon Elevators and Escalators Pvt. Ltd.
+Hiranandani_Communities
+Houston_Sustainability_Indicators
+Humanistic_Management_Center
+Hungarian_Central_Statistics_Office
+Hunger_And_Nutrition_Commitment_Index
+Hybon_Elevators_and_Escalators_Pvt._Ltd.
 i-genius
-IFAD International Fund for Agricultural Development 
-Ilifa Labantwana
-Imagina Mexico
-Immigration Xperts
+IFAD_International_Fund_for_Agricultural_Development_
+Ilifa_Labantwana
+Imagina_Mexico
+Immigration_Xperts
 Improveon
-Independent Projects
-Índice Itaú de Bem-Estar Social
-Indice relatif de bonheur
-INFORM 
-Institut Wallon de l’Evaluation, de la Prospective et de la Statistique
-Institute for Economics and Peace
-Institute for New Economic Thinking 
-Institute for Studies in Happiness, Economy and Society
-Institute of Race Relations
-Instituto de Estudios Urbanos y Territoriales de la Universidad Católica 
-Instituto del Bienestar
-Instituto del Desarrollo de la Juventud
-Instituto Nacional de Estadística y Censos
-Instituto Nacional de Estadísticas
-Inter-American Development Bank
-International Labor Organization
-International Association of Universities
-International Council on Social Welfare
-International Development Law Organization
-International Energy Agency
-International Food Policy Research Institute
-International Human Dimensions Programme  on Global Environmental Change
-International IDEA
-International Institute for Sustainable Development
-International Journal of Wellbeing 
-International Journals of Multidisciplinary Research Academy  (IJMRA) 
-International Monetary Fund
-International Organization of Migration (IOM)
-International Research Associates for Happy Societies
-International Transport Forum
+Independent_Projects
+Índice_Itaú_de_Bem-Estar_Social
+Indice_relatif_de_bonheur
+INFORM_
+Institut_Wallon_de_l’Evaluation,_de_la_Prospective_et_de_la_Statistique
+Institute_for_Economics_and_Peace
+Institute_for_New_Economic_Thinking_
+Institute_for_Studies_in_Happiness,_Economy_and_Society
+Institute_of_Race_Relations
+Instituto_de_Estudios_Urbanos_y_Territoriales_de_la_Universidad_Católica_
+Instituto_del_Bienestar
+Instituto_del_Desarrollo_de_la_Juventud
+Instituto_Nacional_de_Estadística_y_Censos
+Instituto_Nacional_de_Estadísticas
+Inter-American_Development_Bank
+International_Labor_Organization
+International_Association_of_Universities
+International_Council_on_Social_Welfare
+International_Development_Law_Organization
+International_Energy_Agency
+International_Food_Policy_Research_Institute
+International_Human_Dimensions_Programme__on_Global_Environmental_Change
+International_IDEA
+International_Institute_for_Sustainable_Development
+International_Journal_of_Wellbeing 
+International_Journals_of_Multidisciplinary_Research_Academy__(IJMRA)_
+International_Monetary_Fund
+International_Organization_of_Migration_(IOM)
+International_Research_Associates_for_Happy_Societies
+International_Transport_Forum
 Ipsos
-IPSP International Panel on Social Progress
+IPSP_International_Panel_on_Social_Progress
 iraimmigration
-Israeli Society for Sustainable Economics
+Israeli_Society_for_Sustainable_Economics
 ISTAT
-Japan for Sustainability
+Japan_for_Sustainability
 JigneshBarasara
-Legatum Institute
-Looks Salon Noida
-Mahatma Gandhi Institute of Education for Peace and Sustainable Development 
-Make it Happy
-Marco Indicators
-Brand Building Management Services | Cup Branding, T Shirt Printing
-2Mayns Events
-Measure Evaluation 
-Measure of America
-Minnesota Compass
-Mo Ibrahim Foundation
-National Economic and Social Council, Ireland
-National Institute for Health and Welfare
-National Institute of Child Health and Human Development
-National Resource Governance Institute
-National NGO Delhi
-New Economics Foundation NEF
-Network Of Wellbeing (NOW)
-Niranjan Hiranandani
+Legatum_Institute
+Looks_Salon_Noida
+Mahatma_Gandhi_Institute_of_Education_for_Peace_and_Sustainable_Development_
+Make_it_Happy
+Marco_Indicators
+Brand_Building_Management_Services_|_Cup_Branding,_T_Shirt_Printing
+2Mayns_Events
+Measure_Evaluation_
+Measure_of_America
+Minnesota_Compass
+Mo_Ibrahim_Foundation
+National_Economic_and_Social_Council,_Ireland
+National_Institute_for_Health_and_Welfare
+National_Institute_of_Child_Health_and_Human_Development
+National_Resource_Governance_Institute
+National_NGO_Delhi
+New_Economics_Foundation_NEF
+Network_Of_Wellbeing_(NOW)
+Niranjan_Hiranandani
 NOIPolls
-NYC Open Data 
-Office for National Statistics UK 
-Office of Planning, Research and Evaluation
+NYC_Open_Data_
+Office_for_National_Statistics_UK_
+Office_of_Planning,_Research_and_Evaluation
 ONE
-One World Trust
-Open Baltimore
-Organisation for Economic Co-operation and Development OECD
-Overseas Development Institute
-Oxfam Great Britain
-Oxford Poverty and Human Development Initiative
+One_World_Trust
+Open_Baltimore
+Organisation_for_Economic_Co-operation_and_Development_OECD
+Overseas_Development_Institute
+Oxfam_Great_Britain
+Oxford_Poverty_and_Human_Development_Initiative
 PARIS21
-Pathway Visas Reviews
-Peer PowerYJ
+Pathway_Visas_Reviews
+Peer_PowerYJ
 Peg
-Plan International
-POLIS - Observatorio de Políticas Públicas
-Principal Global Indicators 
-Quality of Life in New Zealand's Cities
-Rede Nossa São Paulo
-Restless Development 
-Russian Public Opinion Research Center 
-Sanali Group Reviews
-Santosh Srivastava Gitanjali Group
-Save the Children
+Plan_International
+POLIS_-_Observatorio_de_Políticas_Públicas
+Principal_Global_Indicators_
+Quality_of_Life_in_New_Zealand's_Cities
+Rede_Nossa_São_Paulo
+Restless_Development_
+Russian_Public_Opinion_Research_Center_
+Sanali_Group_Reviews
+Santosh_Srivastava_Gitanjali_Group
+Save_the_Children
 SDGFund
-Searchline Database Pvt Ltd
-Servicio Nacional del Adulto Mayor 
+Searchline_Database_Pvt_Ltd
+Servicio_Nacional_del_Adulto_Mayor_
 SICENTER
 Signaturevisas
-Social Indicators Research Centre (ZSi)
-Social Progress Imperative
-Social Watch
-Social Weather Stations
-Southern Voice
-Statistics Austria
-Statistics Netherlands
-Statistics New Zealand
-Statistics South Africa
-Strategic Foresight Group
-Sustainable Governance Indicators
-Sustainable Society Foundation
-Swiss Statistics
-Syncway Infotech Solutions Pvt Ltd
-The African Child Policy Forum
-The Akshaya Patra Foundation
-The Annie E. Casey Foundation
-The Asia Foundation
-The Center for Societal Progress/ Zentrum fur gesellschaftlichen Fortschritt
-The Children's Society
-The Economic and Social Research Institute
-The Economist Intelligence Unit
-The European Economic and Social Committee
-The Good Country Index
-The Institute for Health Metrics and Evaluation
-The KPI Institute
-The Mori Memorial Foundation
-The Netherlands Institute for Social Research
-The Scottish Government
-The State of the USA
-The  Urban Institute 
-The Web Index
-The Young Foundation
-Transparency International
-Tzuby's Kids
-UK Data Service
-UN Habitat
-UN Sustainable Development Solutions Network 
-UN Water 
+Social_Indicators_Research_Centre_(ZSi)
+Social_Progress_Imperative
+Social_Watch
+Social_Weather_Stations
+Southern_Voice
+Statistics_Austria
+Statistics_Netherlands
+Statistics_New_Zealand
+Statistics_South_Africa
+Strategic_Foresight_Group
+Sustainable_Governance_Indicators
+Sustainable_Society_Foundation
+Swiss_Statistics
+Syncway_Infotech_Solutions_Pvt_Ltd
+The_African_Child_Policy_Forum
+The_Akshaya_Patra_Foundation
+The_Annie_E._Casey_Foundation
+The_Asia_Foundation
+The_Center_for_Societal_Progress/_Zentrum_fur_gesellschaftlichen_Fortschritt
+The_Children's_Society
+The_Economic_and_Social_Research_Institute
+The_Economist_Intelligence_Unit
+The_European_Economic_and_Social_Committee
+The_Good_Country_Index
+The_Institute_for_Health_Metrics_and_Evaluation
+The_KPI_Institute
+The_Mori_Memorial_Foundation
+The_Netherlands_Institute_for_Social_Research
+The_Scottish_Government
+The_State_of_the_USA
+The__Urban_Institute_
+The_Web_Index
+The_Young_Foundation
+Transparency_International
+Tzuby's_Kids
+UK_Data_Service
+UN_Habitat
+UN_Sustainable_Development_Solutions_Network_
+UN_Water_
 UNESCO
-UNESCO Institute for Statistics
-Unicef Office of Research
+UNESCO_Institute_for_Statistics
+Unicef_Office_of_Research
 UNITAR
-United Nations
-United Nations Development Programme
-United Nations Environment Programme
-United Nations Food and Agriculture Organization
-United Nations Population Fund
-United Way of Santa Cruz County 
-University of Edinburgh 
+United_Nations
+United_Nations_Development_Programme
+United_Nations_Environment_Programme
+United_Nations_Food_and_Agriculture_Organization
+United_Nations_Population_Fund
+United_Way_of_Santa_Cruz_County_
+University_of_Edinburgh_
 USAID
 V2Infotech
 Value4Brand
-VivekkVikas Photography
-Vowels Advertising Agency
-Walk Free Foundation 
-Well-being and Poverty Pathways
-Whaaky Reviews
-What Works Centre for Wellbeing
-World Bank
-World Business Council for Sustainable Development
-World Economic Forum
-World Family Map
-World Future Council
-World Happiness Summit (WOHASU)
-World Health Organization Regional Office for Europe
-World Resources Institute
-World Trade Organization
-World Wildlife Fund- WWF
-Yumbo Cómo Vamos
+VivekkVikas_Photography
+Vowels_Advertising_Agency
+Walk_Free_Foundation_
+Well-being_and_Poverty_Pathways
+Whaaky_Reviews
+What_Works_Centre_for_Wellbeing
+World_Bank
+World_Business_Council_for_Sustainable_Development
+World_Economic_Forum
+World_Family_Map
+World_Future_Council
+World_Happiness_Summit_(WOHASU)
+World_Health_Organization_Regional_Office_for_Europe
+World_Resources_Institute
+World_Trade_Organization
+World_Wildlife_Fund-_WWF
+Yumbo_Cómo_Vamos

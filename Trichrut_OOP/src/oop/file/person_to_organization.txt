@@ -1,28 +1,28 @@
-tham gia
-hoạt động ở
-hoạt động tại
-làm giám đốc ở
-làm nhân viên ở
-làm thành viên của
-làm việc ở
-làm việc tại
-có tham gia
-tham gia thành lập
-thành lập
-gây dựng nên
-thành lập nên
-gây dựng
-là người của
-là nhân viên của
-là giám đốc của
-làm trưởng phòng ở
-là trưởng phòng của
-là người lãnh đạo
-tham gia lãnh đạo 
-tham gia điều hành
-điều hành
-lãnh đạo
-phá hủy
-thỏa thuận
-hiệp ước
-thỏa thuận với
+﻿tham_gia
+hoạt_động_ở
+hoạt_động_tại
+làm_giám_đốc_ở
+làm_nhân_viên_ở
+làm_thành_viên_của
+làm_việc_ở
+làm_việc_tại
+có_tham_gia
+tham_gia_thành_lập
+thành_lập
+gây_dựng_nên
+thành_lập_nên
+gây_dựng
+là_người_của
+là_nhân_viên_của
+là_giám_đốc_của
+làm_trưởng_phòng_ở
+là_trưởng_phòng_của
+là_người_lãnh_đạo
+tham_gia_lãnh_đạo_
+tham_gia_điều_hành
+điều_hành
+lãnh_đạo
+phá_hủy
+thỏa_thuận
+hiệp_ước
+thỏa_thuận_với

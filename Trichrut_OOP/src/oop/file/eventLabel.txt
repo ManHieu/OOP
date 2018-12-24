@@ -1,121 +1,122 @@
-Vietnam Foodexpo
-Wire & Cable Show Hanoi (Wire & Cable Show 2018)
-Vietnam International Franchise & Retail Exhibition (VIETRF)
-Coaltrans Emerging Asian Coal Markets
-Emerging Polymer Technologies Summit (EPTS)
-Seamless Vietnam
+Vietnam_Foodexpo
+Food&Hotel_Hanoi
+Wire_&_Cable_Show_Hanoi_(Wire_&_Cable_Show_2018)
+Vietnam_International_Franchise_&_Retail_Exhibition_(VIETRF)
+Coaltrans_Emerging_Asian_Coal_Markets
+Emerging_Polymer_Technologies_Summit_(EPTS)
+Seamless_Vietnam
 VietWater
-Solar & Energy Storage World Vietnam (SESW)
-International Conference on Medical Medicine and Health Sciences (MMHS)
-International Conference on Business Management Economics Communication Tourism Social Sciences & Humanities (BECTSH)
+Solar_&_Energy_Storage_World_Vietnam_(SESW)
+International_Conference_on_Medical_Medicine_and_Health_Sciences_(MMHS)
+International_Conference_on_Business_Management_Economics_Communication_Tourism_Social_Sciences_&_Humanities_(BECTSH)
 VietFood
-Begin Edu Fair-Ho Chi Minh City (Autumn  Edition)
-Begin Edu Fair- Hanoi (Autumn  Edition)
-Vietnam International Jewelry Fair (VIJF)
-International Downstream-Tech Vietnam
-Vietnam  Foodexpo
-Vietnam Two Wheels Vehicle International Exhibition (Vietnam Cycle)
-Vietnam International Bicycle Exhibition (Vietnam Cycle)
-International Conference On Electrical Engineering And Electronics Communication System (ICEEECS)
-Advanced research on Computer, Civil, Electrical, and Petroleum Engineering International Conference (ACCEPIC)
-International Conference on Language, Education, Humanities and Innovation (ICLEHI)
-Qs World Grad School Tour Ho Chi Minh City
-Concrete Expo
-Qs World Grad School Tour
-The International Exhibition on Machineries and Technologies of Agriculture - Forestry - Fishery (VIETNAM  GROWTECH)
-Power Southeast Asia (Vietnam) Conference and Exhibition (PSEAVIETNAM)
-Vietnam Textile & Garment Exhibition (VTG)
-INTERDYE ASIA
-Crypto Expo Asia
-International Exhibition VIETBUILD HANOI - Phase III
-Food & Hotel Hanoi
-Vinamac Expo
-EAI International Conference on Heterogeneous Networking for Quality, Reliability, Security and Robustness (Qshine)
-Reconnaissance High Security Printing Asia
-Asia International Coffee Conference
-Conference on InterAsian Connections
-International Conference on Sociality and Humanities (ICOSH)
-International Symposium on Information and Communication Technology (SoICT)
-VIETNAM EXPO
-International Exhibition of Construction Technology Equipment Materials and Minning Industry (Contech Vietnam)
-MediPharm Hanoi
-Sugarex Vietnam
-Vietnam International Machinery Fair (VIMAF)
-Vietbuild Home
-School & Office Expo (SCOFEX Vietnam)
-International Econometric Conference of Vietnam (IECV)
-International Conference on Materials Engineering and Applications (ICMEA)
-International Conference on Petroleum and Petrochemical Engineering (ICPPE)
-Vietnam Power Development Summit (VDPS)
-Vietnam Tech Conference
-International Conference on Machine Learning and Soft Computing (ICMLSC)
-International Conference on Computer Research and Development (ICCRD)
-International Conference on BioMedical Technology (ICBMT)
-International Conference on Intelligent Information Technology (ICIIT)
-Linden Boarding School Tour
-Asia Tour Ho Chi Minh City
-Linden Fair Ho Chi Minh City
-Vietnam Tour Ho Chi Minh City
-International Conference On Environment And Renewable Energy (ICERE)
-Automechanika Ho Chi Minh City (AMHCMC)
-Oil & Gas Tech Asia (OGTA)
-Asia Expo Ho Chi Minh City
-Vietnam International Furniture & Home Accessories Fair (VIFA-EXPO)
-AAE Higher Education Spring Fair
-HortEx Vietnam
-AAE Higher Education Fair
-International Water Week
-ProPak Vietnam
-International Congress of the Asia Pacific Society of Infection Control (ICAPSIC)
-Vietnam International Advertising Equipment and Technology Exhibition (VIETAD)
-Railway Infrastructure Summit Hanoi
-HVACR Vietnam
-Shop & Store Vietnam (SSV)
-Solar Show Vietnam
-The Wind Show Vietnam
-Analytica Vietnam
-World Conference on Personality (WCP)
-DevDay Da Nang (Dev Day)
-International Conference on Telecommunications (ICT)
-Vietnam Saigon Fabric & Garment Accessories Expo (SaigonFabric)
-Vietnam International Trade Fair (Vietnam Expo)
-International Conference on Business, Science and Technology (ICBST)
-Cosmobeaute Vietnam
-Lifestyle Vietnam
-Fig Working Week Hanoi
-Food & Hotel Vietnam (FHV)
-Hanoi Plas Vietnam
-Vietnam Int'l Cafe Show
-International Conference on Civil Engineering (ICOCE)
-International Conference on Materials Engineering and Functional Materials (ICMFM)
-Vietnam International Exhibition on Products, Equipment and Supplies for Pharmaceutical, Medical, Hospital and Rehabilitation (Vietnam Medi-Pharm 2017)
-Asia Coatings Congress  Vietnam
-International Jewelry + Watch Vietnam
-APCDA Conference
-Saigon Autotech & Accessories
+Begin_Edu_Fair-Ho_Chi_Minh_City_(Autumn__Edition)
+Begin_Edu_Fair-_Hanoi_(Autumn__Edition)
+Vietnam_International_Jewelry_Fair_(VIJF)
+International_Downstream-Tech_Vietnam
+Vietnam__Foodexpo
+Vietnam_Two_Wheels_Vehicle_International_Exhibition_(Vietnam_Cycle)
+Vietnam_International_Bicycle_Exhibition_(Vietnam_Cycle)
+International_Conference_On_Electrical_Engineering_And_Electronics_Communication_System_(ICEEECS)
+Advanced_research_on_Computer,_Civil,_Electrical,_and_Petroleum_Engineering_International_Conference_(ACCEPIC)
+International_Conference_on_Language,_Education,_Humanities_and_Innovation_(ICLEHI)
+Qs_World_Grad_School_Tour_Ho_Chi_Minh_City
+Concrete_Expo
+Qs_World_Grad_School_Tour
+The_International_Exhibition_on_Machineries_and_Technologies_of_Agriculture_-_Forestry_-_Fishery_(VIETNAM__GROWTECH)
+Power_Southeast_Asia_(Vietnam)_Conference_and_Exhibition_(PSEAVIETNAM)
+Vietnam_Textile_&_Garment_Exhibition_(VTG)
+INTERDYE_ASIA
+Crypto_Expo_Asia
+International_Exhibition_VIETBUILD_HANOI_-_Phase_III
+Food_&_Hotel_Hanoi
+Vinamac_Expo
+EAI_International_Conference_on_Heterogeneous_Networking_for_Quality,_Reliability,_Security_and_Robustness_(Qshine)
+Reconnaissance_High_Security_Printing_Asia
+Asia_International_Coffee_Conference
+Conference_on_InterAsian_Connections
+International_Conference_on_Sociality_and_Humanities_(ICOSH)
+International_Symposium_on_Information_and_Communication_Technology_(SoICT)
+VIETNAM_EXPO
+International_Exhibition_of_Construction_Technology_Equipment_Materials_and_Minning_Industry_(Contech_Vietnam)
+MediPharm_Hanoi
+Sugarex_Vietnam
+Vietnam_International_Machinery_Fair_(VIMAF)
+Vietbuild_Home
+School_&_Office_Expo_(SCOFEX_Vietnam)
+International_Econometric_Conference_of_Vietnam_(IECV)
+International_Conference_on_Materials_Engineering_and_Applications_(ICMEA)
+International_Conference_on_Petroleum_and_Petrochemical_Engineering_(ICPPE)
+Vietnam_Power_Development_Summit_(VDPS)
+Vietnam_Tech_Conference
+International_Conference_on_Machine_Learning_and_Soft_Computing_(ICMLSC)
+International_Conference_on_Computer_Research_and_Development_(ICCRD)
+International_Conference_on_BioMedical_Technology_(ICBMT)
+International_Conference_on_Intelligent_Information_Technology_(ICIIT)
+Linden_Boarding_School_Tour
+Asia_Tour_Ho_Chi_Minh_City
+Linden_Fair_Ho_Chi_Minh_City
+Vietnam_Tour_Ho_Chi_Minh_City
+International_Conference_On_Environment_And_Renewable_Energy_(ICERE)
+Automechanika_Ho_Chi_Minh_City_(AMHCMC)
+Oil_&_Gas_Tech_Asia_(OGTA)
+Asia_Expo_Ho_Chi_Minh_City
+Vietnam_International_Furniture_&_Home_Accessories_Fair_(VIFA-EXPO)
+AAE_Higher_Education_Spring_Fair
+HortEx_Vietnam
+AAE_Higher_Education_Fair
+International_Water_Week
+ProPak_Vietnam
+International_Congress_of_the_Asia_Pacific_Society_of_Infection_Control_(ICAPSIC)
+Vietnam_International_Advertising_Equipment_and_Technology_Exhibition_(VIETAD)
+Railway_Infrastructure_Summit_Hanoi
+HVACR_Vietnam
+Shop_&_Store_Vietnam_(SSV)
+Solar_Show_Vietnam
+The_Wind_Show_Vietnam
+Analytica_Vietnam
+World_Conference_on_Personality_(WCP)
+DevDay_Da_Nang_(Dev_Day)
+International_Conference_on_Telecommunications_(ICT)
+Vietnam_Saigon_Fabric_&_Garment_Accessories_Expo_(SaigonFabric)
+Vietnam_International_Trade_Fair_(Vietnam_Expo)
+International_Conference_on_Business,_Science_and_Technology_(ICBST)
+Cosmobeaute_Vietnam
+Lifestyle_Vietnam
+Fig_Working_Week_Hanoi
+Food_&_Hotel_Vietnam_(FHV)
+Hanoi_Plas_Vietnam
+Vietnam_Int'l_Cafe_Show
+International_Conference_on_Civil_Engineering_(ICOCE)
+International_Conference_on_Materials_Engineering_and_Functional_Materials_(ICMFM)
+Vietnam_International_Exhibition_on_Products,_Equipment_and_Supplies_for_Pharmaceutical,_Medical,_Hospital_and_Rehabilitation_(Vietnam_Medi-Pharm_2017)
+Asia_Coatings_Congress__Vietnam
+International_Jewelry_+_Watch_Vietnam
+APCDA_Conference
+Saigon_Autotech_&_Accessories
 EuroSphere
-Vietnam International Maternity Baby and Kids Fair
-Telefilm 
-VIETNAM INDUSTRIAL & MANUFACTURING FAIR
-INDUSTRIAL AUTOMATION FIESTA (IAF)
+Vietnam_International_Maternity_Baby_and_Kids_Fair
+Telefilm_
+VIETNAM_INDUSTRIAL_&_MANUFACTURING_FAIR
+INDUSTRIAL_AUTOMATION_FIESTA_(IAF)
 ENTECH
-Vietnam AutoExpo
-International Conference on Innovation, Knowledge, and Management (ICIKM)
-World Conference on e-Education, e-Business and e-Commerce (WCEEE)
-Rubber & Tire Vietnam
-MTA Vietnam
-International Conference on Data Science in Business, Finance and Industry (ISSAT DSBFI Vietnam)
-International Footwear & Leather Products Exhibition  Vietnam (IFLE Vietnam)
-Vietnam International Electrical Technology & Equipment Exhibition (Vietnam ETE)
-Vietnam International Advertising Equipment and Technology Exhibition
-Vietnam Medi-Pharm Expo (MediPharm Expo)
-VietFood & Beverage - Vietnam
-Intermold Vietnam
-Vietnam Manufacturing Expo (VME)
-Industrial Components & Subcontracting Vietnam Hanoi
-Industrial Components & Subcontracting Vietnam Ho Chi Minh City
-Wire & Cable Show Vietnam (W C V)
-Fire Safety & Rescue
-World Glasstech Vietnam
-Viet Beauty (vietbeauty)
-Mekong Beauty Show (MBS)
+Vietnam_AutoExpo
+International_Conference_on_Innovation,_Knowledge,_and_Management_(ICIKM)
+World_Conference_on_e-Education,_e-Business_and_e-Commerce_(WCEEE)
+Rubber_&_Tire_Vietnam
+MTA_Vietnam
+International_Conference_on_Data_Science_in_Business,_Finance_and_Industry_(ISSAT_DSBFI_Vietnam)
+International_Footwear_&_Leather_Products_Exhibition__Vietnam_(IFLE_Vietnam)
+Vietnam_International_Electrical_Technology_&_Equipment_Exhibition_(Vietnam_ETE)
+Vietnam_International_Advertising_Equipment_and_Technology_Exhibition
+Vietnam_Medi-Pharm_Expo_(MediPharm_Expo)
+VietFood_&_Beverage_-_Vietnam
+Intermold_Vietnam
+Vietnam_Manufacturing_Expo_(VME)
+Industrial_Components_&_Subcontracting_Vietnam_Hanoi
+Industrial_Components_&_Subcontracting_Vietnam_Ho_Chi_Minh_City
+Wire_&_Cable_Show_Vietnam_(W_C_V)
+Fire_Safety_&_Rescue
+World_Glasstech_Vietnam
+Viet_Beauty_(vietbeauty)
+Mekong_Beauty_Show_(MBS)

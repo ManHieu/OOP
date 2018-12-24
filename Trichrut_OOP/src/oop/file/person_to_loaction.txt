@@ -1,18 +1,19 @@
-tới thăm
-ghé thăm
-đi qua
-ghé qua
-thành lập
-là người
-quê ở
-sống tại
-sinh ra
-lớn lên
-sinh sống tại
-sinh trú quán tại
-làm việc tại
-công tác tại
-học tại
-kết hôn ở
-làm việc ở
-quê tại
+﻿tới_thăm
+ghé_thăm
+đi_qua
+ghé_qua
+thành_lập
+là_người
+quê_ở
+sống_tại
+sinh_ra
+lớn_lên
+sinh_sống_tại
+sinh_trú_quán_tại
+làm_việc_tại
+công_tác_tại
+học_tại
+kết_hôn_ở
+làm_việc_ở
+quê_tại
+được_trao_thưởng_bởi

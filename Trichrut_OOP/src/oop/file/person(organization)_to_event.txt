@@ -1,4 +1,4 @@
-tham gia
-tổ chức
-có mặt tại
-gây tiếng vang tại
+tham_gia
+tổ_chức
+có_mặt_tại
+gây_tiếng_vang_tại

@@ -1,7 +1,4 @@
 package oop.db;
-/*
- * add hết vào một model xong gửi model lên repository sau.
- */
 
 import org.eclipse.rdf4j.model.IRI;
 import org.eclipse.rdf4j.model.Literal;
@@ -154,20 +151,12 @@ public class EntityCreation extends RDFSchema{
 		IRI en2IRI = this.createIRI(relate.getTt2());
 		IRI relateIRI = vf.createIRI(this.getRelation().toString(),relate.getQuanHe());
 		Statement stmRelate = vf.createStatement(en1IRI, relateIRI, en2IRI);
-		
+		System.out.println(stmRelate);
 		return stmRelate;
 	}
 	
 	public RepositoryConnection getRepoConn() {
 		return this.repoConn;
-	}
-	public static void main(String[] args) {
-		EntityCreation ec = new EntityCreation();
-		Person ps = new Person();
-		ps.setID("PERSON1");
-		IRI personIRI = ec.createIRI(ps);
-		System.out.println(personIRI);
-		System.out.println(ec.descrip);
 	}
 }
 

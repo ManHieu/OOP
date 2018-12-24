@@ -1,671 +1,480 @@
-Honningsvåg, Norway
-Nagpur, India
-Ludhiana, India
-Salzburg, Austria
-Thessaloniki, Greece
-Ōtsu, Japan
-Tokushima, Japan
-Belo Horizonte, Brazil
-Pierre, United States
-Kraków, Poland
-Brasília, Brazil
-Campo Grande, Brazil
-Greenwich, United Kingdom
-Norrköping, Sweden
-León, Mexico
-Santa Cruz de Tenerife, Spain
-Damascus, Syria
-Ciudad Bolívar, Venezuela
-Hilo, United States
-Huambo, Angola
-Palmas, Brazil
-Port Elizabeth, South Africa
-Tucson, United States
-Yamagata, Japan
-Johannesburg, South Africa
-Toronto, Canada
-Ibiza, Spain
-Cancún, Mexico
-Hai Phong, Vietnam
+﻿Honningsvåg,_Norway
+Đông_Anh,_Việt_Nam
+Nagpur,_India
+Ludhiana,_India
+Salzburg,_Austria
+Thessaloniki,_Greece
+Ōtsu,_Japan
+Tokushima,_Japan
+Belo_Horizonte,_Brazil
+Pierre,_United_States
+Kraków,_Poland
+Brasília,_Brazil
+Campo_Grande,_Brazil
+Greenwich,_United_Kingdom
+Norrköping,_Sweden
+León,_Mexico
+Santa_Cruz_de_Tenerife,_Spain
+Damascus,_Syria
+Ciudad_Bolívar,_Venezuela
+Hilo,_United_States
+Huambo,_Angola
+Palmas,_Brazil
+Port_Elizabeth,_South_Africa
+Tucson,_United_States
+Yamagata,_Japan
+Johannesburg,_South_Africa
+Toronto,_Canada
+Ibiza,_Spain
+Cancún,_Mexico
+Hai_Phong,_Vietnam
 Shenyang,China
-Kigali, Rwanda
-Lima, Peru
-Pyongyang, North Korea
-Nashville, United States
-Balikpapan, Indonesia
-Tezpur, India
-Shimla, India
-Hakodate, Japan
-Helena, United States
-Xining, China
-Eureka, Canada
-Medina, Saudi Arabia
-Qiqihar, China
-St. George's, Grenada
-St. John's, Canada
-Chittagong, Bangladesh
+Kigali,_Rwanda
+Lima,_Peru
+Pyongyang,_North_Korea
+Nashville,_United_States
+Balikpapan,_Indonesia
+Tezpur,_India
+Shimla,_India
+Hakodate,_Japan
+Helena,_United_States
+Xining,_China
+Eureka,_Canada
+Medina,_Saudi_Arabia
+Qiqihar,_China
+St._George's,_Grenada
+St._John's,_Canada
+Chittagong,_Bangladesh
 Shijiazhuang,China
-Banjul, Gambia
-Helsinki, Finland
-Matsuyama, Japan
-Östersund, Sweden
-Punta Arenas, Chile
-Peshawar, Pakistan
-Beirut, Lebanon
-Chongqing, China
-Alofi, New Zealand
-Graz, Austria
-Aracaju, Brazil
-Guatemala City, Guatemala
-Springfield, United States
-Pune, India
-Denpasar, Indonesia
-Coventry, United Kingdom
-Odense, Denmark
-Reno, United States
-Shillong, India
-Yaren District, Nauru
-Johor Bahru, Malaysia
-Rochester, United States
-Tiksi, Russia
-Rovaniemi, Finland
-Portland, United States
-Chelyabinsk, Russia
-Catania, Italy
-New York City, United States
-Tel Aviv, Israel
-Cagliari, Italy
-Rotterdam, Netherlands
-Lomé, Togo
-Qaqortoq, Denmark
-Veracruz, Mexico
-Mogadishu, Somalia
-Valencia, Spain
-Eilat, Israel
-Ulan Bator, Mongolia
+Banjul,_Gambia
+Helsinki,_Finland
+Matsuyama,_Japan
+Östersund,_Sweden
+Punta_Arenas,_Chile
+Peshawar,_Pakistan
+Beirut,_Lebanon
+Chongqing,_China
+Alofi,_New_Zealand
+Graz,_Austria
+Aracaju,_Brazil
+Guatemala_City,_Guatemala
+Springfield,_United_States
+Pune,_India
+Denpasar,_Indonesia
+Coventry,_United_Kingdom
+Odense,_Denmark
+Reno,_United_States
+Shillong,_India
+Yaren_District,_Nauru
+Johor_Bahru,_Malaysia
+Rochester,_United_States
+Tiksi,_Russia
+Rovaniemi,_Finland
+Portland,_United_States
+Chelyabinsk,_Russia
+Catania,_Italy
+New_York_City,_United_States
+Tel_Aviv,_Israel
+Cagliari,_Italy
+Rotterdam,_Netherlands
+Lomé,_Togo
+Qaqortoq,_Denmark
+Veracruz,_Mexico
+Mogadishu,_Somalia
+Valencia,_Spain
+Eilat,_Israel
+Ulan_Bator,_Mongolia
 Dalian,China
-Medan, Indonesia
-Antananarivo, Madagascar
-Wichita, United States
-Durango, Mexico
-Semarang, Indonesia
-Chandigarh, India
-Makati, Philippines
-Winchester, United Kingdom
-Utsunomiya, Japan
-Iloilo City, Philippines
-Georgetown, Guyana
-Rostov-on-Don, Russia
-Puerto Vallarta, Mexico
-Rabat, Morocco
-Malang, Indonesia
-Koulikoro, Mali
-Nouméa, France
-Bahía Blanca, Argentina
-Pekanbaru, Indonesia
-Majuro, Marshall Islands
-Ibadan, Nigeria
-Mérida, Mexico
-Munich, Germany
-Nottingham, United Kingdom
-São José do Rio Preto, Brazil
-Padang, Indonesia
-Blantyre, Malawi
-Stockholm, Sweden
-Yakutsk, Russia
-Kanazawa, Japan
-Trenton, United States
-Matsue, Japan
-Multan, Pakistan
-Oslo, Norway
-Riverside, United States
-Albuquerque, United States
-Guayaquil, Ecuador
-Bergen, Norway
-Juiz de Fora, Brazil
-Cleveland, United States
-Suva, Fiji
-Agra, India
-Montreal, Canada
-Vadsø, Norway
-Flensburg, Germany
-Hobart, Australia
-Amman, Jordan
-Madrid, Spain
-Shizuoka, Japan
-Bridgetown, Barbados
-Trelew, Argentina
-Obihiro, Japan
-Florence, Italy
-Poços de Caldas, Brazil
-Lobamba, Swaziland
-Hamilton, United Kingdom
-Pristina, Serbia
-Iquitos, Peru
-Prague, Czech Republic
-Lillehammer, Norway
-Abu Dhabi, United Arab Emirates
-Malabo, Equatorial Guinea
-Fort Wayne, United States
-Wellington, New Zealand
-Dodoma, Tanzania
-Sinop, Brazil
-Djibouti, Djibouti
-Cebu City, Philippines
+Medan,_Indonesia
+Antananarivo,_Madagascar
+Wichita,_United_States
+Durango,_Mexico
+Semarang,_Indonesia
+Chandigarh,_India
+Makati,_Philippines
+Winchester,_United_Kingdom
+Utsunomiya,_Japan
+Iloilo_City,_Philippines
+Georgetown,_Guyana
+Rostov-on-Don,_Russia
+Puerto_Vallarta,_Mexico
+Rabat,_Morocco
+Malang,_Indonesia
+Koulikoro,_Mali
+Nouméa,_France
+Bahía_Blanca,_Argentina
+Pekanbaru,_Indonesia
+Majuro,_Marshall_Islands
+Ibadan,_Nigeria
+Mérida,_Mexico
+Munich,_Germany
+Nottingham,_United_Kingdom
+São_José_do_Rio_Preto,_Brazil
+Padang,_Indonesia
+Blantyre,_Malawi
+Stockholm,_Sweden
+Yakutsk,_Russia
+Kanazawa,_Japan
+Trenton,_United_States
+Matsue,_Japan
+Multan,_Pakistan
+Oslo,_Norway
+Riverside,_United_States
+Albuquerque,_United_States
+Guayaquil,_Ecuador
+Bergen,_Norway
+Juiz_de_Fora,_Brazil
+Cleveland,_United_States
+Suva,_Fiji
+Agra,_India
+Montreal,_Canada
+Vadsø,_Norway
+Flensburg,_Germany
+Hobart,_Australia
+Amman,_Jordan
+Madrid,_Spain
+Shizuoka,_Japan
+Bridgetown,_Barbados
+Trelew,_Argentina
+Obihiro,_Japan
+Florence,_Italy
+Poços_de_Caldas,_Brazil
+Lobamba,_Swaziland
+Hamilton,_United_Kingdom
+Pristina,_Serbia
+Iquitos,_Peru
+Prague,_Czech_Republic
+Lillehammer,_Norway
+Abu_Dhabi,_United_Arab_Emirates
+Malabo,_Equatorial_Guinea
+Fort_Wayne,_United_States
+Wellington,_New_Zealand
+Dodoma,_Tanzania
+Sinop,_Brazil
+Djibouti,_Djibouti
+Cebu_City,_Philippines
 Handan,China
-Recife, Brazil
-Port Hedland, Australia
-Toyama, Japan
-Simferopol, Ukraine
-Umeå, Sweden
-La Paz, Bolivia
-Assis, Brazil
+Recife,_Brazil
+Port_Hedland,_Australia
+Toyama,_Japan
+Simferopol,_Ukraine
+Umeå,_Sweden
+La_Paz,_Bolivia
+Assis,_Brazil
 Dongguan,China
-Baku, Azerbaijan
-Harare, Zimbabwe
-Cluj-Napoca, Romania
-San Juan, United States
-Sendai, Japan
-Stjørdal, Norway
-London, United Kingdom
-Lyon, France
-Basseterre, Saint Kitts and Nevis
-Hargeisa, Somalia
+Baku,_Azerbaijan
+Harare,_Zimbabwe
+Cluj-Napoca,_Romania
+San_Juan,_United_States
+Sendai,_Japan
+Stjørdal,_Norway
+London,_United_Kingdom
+Lyon,_France
+Basseterre,_Saint_Kitts_and_Nevis
+Hargeisa,_Somalia
 Zhengzhou,China
-Cockburn Town, United Kingdom
-Aomori, Japan
-Cayenne, France
-Cologne, Germany
-Sacramento, United States
-Murmansk, Russia
-Alert, Canada
-Horta, Portugal
-Kumamoto, Japan
-Indianapolis, United States
-Saint John, Canada
-Yellowknife, Canada
-Maracaibo, Venezuela
-Linz, Austria
-Wonsan, North Korea
-Orlando, United States
-Luxembourg, Luxembourg
-Dakar, Senegal
-Mersin, Turkey
-Enschede, Netherlands
-Luleå, Sweden
-Sapporo, Japan
-Lahti, Finland
-Nassau, Bahamas
-Jayapura, Indonesia
-Ilhéus, Brazil
-Lilongwe, Malawi
+Cockburn_Town,_United_Kingdom
+Aomori,_Japan
+Cayenne,_France
+Cologne,_Germany
+Sacramento,_United_States
+Murmansk,_Russia
+Alert,_Canada
+Horta,_Portugal
+Kumamoto,_Japan
+Indianapolis,_United_States
+Saint_John,_Canada
+Yellowknife,_Canada
+Maracaibo,_Venezuela
+Linz,_Austria
+Wonsan,_North_Korea
+Orlando,_United_States
+Luxembourg,_Luxembourg
+Dakar,_Senegal
+Mersin,_Turkey
+Enschede,_Netherlands
+Luleå,_Sweden
+Sapporo,_Japan
+Lahti,_Finland
+Nassau,_Bahamas
+Jayapura,_Indonesia
+Ilhéus,_Brazil
+Lilongwe,_Malawi
 Shenzhen,China
-Istanbul, Turkey
-Kingston, Jamaica
-São José dos Campos, Brazil
-Columbia, United States
-Jamestown, United Kingdom
-Kano, Nigeria
-Trondheim, Norway
-Panama City, Panama
-Philadelphia, United States
-Akureyri, Iceland
-Pelotas, Brazil
-Fort-de-France, France
-Tampico, Mexico
-Acapulco, Mexico
-Göteborg, Sweden
-Natal, Brazil
-Sri Jayawardenapura-Kotte, Sri Lanka
-Kathmandu,  Nepal
-Ndola, Zambia
-Chicago, United States
-Cardiff, United Kingdom
-Nukus, Uzbekistan
-Basel, Switzerland
-Southampton, United Kingdom
-Victoria, Canada
-Sitka, United States
-Rome, Italy
-Ahmedabad, India
-The Valley, United Kingdom
-Dammam, Saudi Arabia
-Jerusalem, Israel
-Basra, Iraq
-Iqaluit, Canada
+Istanbul,_Turkey
+Kingston,_Jamaica
+São_José_dos_Campos,_Brazil
+Columbia,_United_States
+Jamestown,_United_Kingdom
+Kano,_Nigeria
+Trondheim,_Norway
+Panama_City,_Panama
+Philadelphia,_United_States
+Akureyri,_Iceland
+Pelotas,_Brazil
+Fort-de-France,_France
+Tampico,_Mexico
+Acapulco,_Mexico
+Göteborg,_Sweden
+Natal,_Brazil
+Sri_Jayawardenapura-Kotte,_Sri_Lanka
+Kathmandu,__Nepal
+Ndola,_Zambia
+Chicago,_United_States
+Cardiff,_United_Kingdom
+Nukus,_Uzbekistan
+Basel,_Switzerland
+Southampton,_United_Kingdom
+Victoria,_Canada
+Sitka,_United_States
+Rome,_Italy
+Ahmedabad,_India
+The_Valley,_United_Kingdom
+Dammam,_Saudi_Arabia
+Jerusalem,_Israel
+Basra,_Iraq
+Iqaluit,_Canada
 Qingdao,China
-Lahore, Pakistan
-Sekondi-Takoradi, Ghana
-Darwin, Australia
-Ho Chi Minh City, Vietnam
-Exeter, United Kingdom
-Moundou, Chad
-Charleston, United States
-Toulouse, France
-Nantes, France
-Austin, United States
-Hanga Roa, Chile
-Lagos, Nigeria
-Salt Lake City, United States
-Dibrugarh, India
-Bangalore, India
-Baghdad, Iraq
-Tórshavn, Denmark
-Mendoza, Argentina
-Cincinnati, United States
-Nelson, New Zealand
-Cartagena, Colombia
-Labasa, Fiji
-Saint-Pierre, France
-Macapá, Brazil
-Berlin, Germany
-Kiev, Ukraine
-Valdivia, Chile
-Vaasa, Finland
-Konya, Turkey
-Minneapolis, United States
-Baltimore, United States
-Vientiane, Laos
-The Hague, Netherlands
-Krasnodar, Russia
-Wollongong, Australia
+Lahore,_Pakistan
+Sekondi-Takoradi,_Ghana
+Darwin,_Australia
+Ho_Chi_Minh_City,_Vietnam
+Exeter,_United_Kingdom
+Moundou,_Chad
+Charleston,_United_States
+Toulouse,_France
+Nantes,_France
+Austin,_United_States
+Hanga_Roa,_Chile
+Lagos,_Nigeria
+Salt_Lake_City,_United_States
+Dibrugarh,_India
+Bangalore,_India
+Baghdad,_Iraq
+Tórshavn,_Denmark
+Mendoza,_Argentina
+Cincinnati,_United_States
+Nelson,_New_Zealand
+Cartagena,_Colombia
+Labasa,_Fiji
+Saint-Pierre,_France
+Macapá,_Brazil
+Berlin,_Germany
+Kiev,_Ukraine
+Valdivia,_Chile
+Vaasa,_Finland
+Konya,_Turkey
+Minneapolis,_United_States
+Baltimore,_United_States
+Vientiane,_Laos
+The_Hague,_Netherlands
+Krasnodar,_Russia
+Wollongong,_Australia
 Xi'an,China
-Makassar, Indonesia
-Nzérékoré, Guinea
-Messina, Italy
-Akita, Japan
-Brisbane, Australia
-Accra, Ghana
-Gold Coast, Australia
-Praia, Cape Verde
-Aarhus, Denmark
-Skopje, Macedonia
-Boa Vista, Brazil
-Utrecht, Netherlands
-Melbourne, Australia
-Incheon, South Korea
-Yerevan, Armenia
-Kirkuk, Iraq
-Porto Velho, Brazil
-San Salvador, El Salvador
-Casablanca, Morocco
-Turku, Finland
-Yamaguchi, Japan
-Monaco, Monaco
-Perm, Russia
-Nemuro, Japan
-Cotonou, Benin
-Memphis, United States
-Trivandrum, India
-Bratsk, Russia
-Moscow, United States
-Saipan, United States
-Cusco, Peru
-Bobo-Dioulasso, Burkina Faso
-Sudbury, Canada
-Zapopan, Mexico
-Chişinău, Moldova
-Port Moresby, Papua New Guinea
-Geneva, Switzerland
-Sana'a, Yemen
-Cape Town, South Africa
-Leipzig, Germany
-Avarua, New Zealand
-Vilnius, Lithuania
+Makassar,_Indonesia
+Nzérékoré,_Guinea
+Messina,_Italy
+Akita,_Japan
+Brisbane,_Australia
+Accra,_Ghana
+Gold_Coast,_Australia
+Praia,_Cape_Verde
+Aarhus,_Denmark
+Skopje,_Macedonia
+Boa_Vista,_Brazil
+Utrecht,_Netherlands
+Melbourne,_Australia
+Incheon,_South_Korea
+Yerevan,_Armenia
+Kirkuk,_Iraq
+Porto_Velho,_Brazil
+San_Salvador,_El_Salvador
+Casablanca,_Morocco
+Turku,_Finland
+Yamaguchi,_Japan
+Monaco,_Monaco
+Perm,_Russia
+Nemuro,_Japan
+Cotonou,_Benin
+Memphis,_United_States
+Trivandrum,_India
+Bratsk,_Russia
+Moscow,_United_States
+Saipan,_United_States
+Cusco,_Peru
+Bobo-Dioulasso,_Burkina_Faso
+Sudbury,_Canada
+Zapopan,_Mexico
+Chişinău,_Moldova
+Port_Moresby,_Papua_New_Guinea
+Geneva,_Switzerland
+Sana'a,_Yemen
+Cape_Town,_South_Africa
+Leipzig,_Germany
+Avarua,_New_Zealand
+Vilnius,_Lithuania
 Changchun,China
-Thunder Bay, Canada
-Santa Barbara, United States
-Kōfu, Japan
-Tiraspol, Moldova
-Port-au-Prince, Haiti
-Qaanaaq, Denmark
-Mobile, United States
-Yarmouth, Canada
-Tuktoyaktuk, Canada
-Washington, United States
-Kanpur, India
-Santa Cruz de la Sierra, Bolivia
-Adamstown, United Kingdom
-Dublin, Ireland
-Gifu, Japan
-Daegu, South Korea
-Mecca, Saudi Arabia
-Siem Reap, Cambodia
-Huế, Vietnam
-San Antonio, United States
-Chiang Mai, Thailand
-Geelong, Australia
+Thunder_Bay,_Canada
+Santa_Barbara,_United_States
+Kōfu,_Japan
+Tiraspol,_Moldova
+Port-au-Prince,_Haiti
+Qaanaaq,_Denmark
+Mobile,_United_States
+Yarmouth,_Canada
+Tuktoyaktuk,_Canada
+Washington,_United_States
+Kanpur,_India
+Santa_Cruz_de_la_Sierra,_Bolivia
+Adamstown,_United_Kingdom
+Dublin,_Ireland
+Gifu,_Japan
+Daegu,_South_Korea
+Mecca,_Saudi_Arabia
+Siem_Reap,_Cambodia
+Huế,_Vietnam
+San_Antonio,_United_States
+Chiang_Mai,_Thailand
+Geelong,_Australia
 Taiyuan,China
-Kristiansand, Norway
-Townsville, Australia
-Craiova, Romania
-Bremen, Germany
+Kristiansand,_Norway
+Townsville,_Australia
+Craiova,_Romania
+Bremen,_Germany
 Lhasa,China
-Suez, Egypt
+Suez,_Egypt
 Harbin,China
-Río Gallegos, Argentina
-Norwich, United Kingdom
-Grise Fiord, Canada
-Kota Bharu, Malaysia
-Chinandega, Nicaragua
-Chennai (Madras), India
-Maastricht, Netherlands
-Libreville, Gabon
-Kampala, Uganda
-Thimphu, Bhutan
-Victoria, Seychelles
-Bern, Switzerland
-Donetsk, Ukraine
-Iquique, Chile
-Fort McMurray, Canada
-Norilsk, Russia
-Dunedin, New Zealand
-Coihaique, Chile
-Voronezh, Russia
+Río_Gallegos,_Argentina
+Norwich,_United_Kingdom
+Grise_Fiord,_Canada
+Kota_Bharu,_Malaysia
+Chinandega,_Nicaragua
+Chennai_(Madras),_India
+Maastricht,_Netherlands
+Libreville,_Gabon
+Kampala,_Uganda
+Thimphu,_Bhutan
+Victoria,_Seychelles
+Bern,_Switzerland
+Donetsk,_Ukraine
+Iquique,_Chile
+Fort_McMurray,_Canada
+Norilsk,_Russia
+Dunedin,_New_Zealand
+Coihaique,_Chile
+Voronezh,_Russia
 Shigatse,China
-Lusaka, Zambia
-Garanhuns, Brazil
-Campinas, Brazil
-Birkirkara, Malta
-Ny-Ålesund, Norway
-Tijuana, Mexico
-Kushiro, Japan
-Magadan, Russia
-Windhoek, Namibia
-Seoul, South Korea
-Port of Spain, Trinidad and Tobago
-Port Louis, Mauritius
-Ushuaia, Argentina
-Ponta Delgada, Portugal
-Saskatoon, Canada
-Hannover, Germany
-Portsmouth, United Kingdom
-Niamey, Niger
-Dushanbe, Tajikistan
-Singapore, Singapore
-Rosario, Argentina
-Zürich, Switzerland
-Riga, Latvia
-Zaragoza, Spain
-Mata-Utu, France
-Sobral, Brazil
-Plymouth, United Kingdom
-Udon Thani, Thailand
-Basse-Terre, France
-Nagoya, Japan
-Santa Fe, United States
-Manama, Bahrain
-Port Blair, India
-Hartford, United States
-San Carlos de Bariloche, Argentina
-New Orleans, United States
-Santo Domingo, Dominican Republic
-Bhisho, South Africa
-Kōbe, Japan
-Nara, Japan
-Puerto Montt, Chile
-Petropavlovsk-Kamchatsky, Russia
-Sevilla, Spain
-Kuching, Malaysia
-Tapachula, Mexico
-Sault Ste. Marie, Canada
-Moroni, Comoros
-Port Harcourt, Nigeria
-Newcastle, Australia
-Inverness, United Kingdom
-Kelowna, Canada
-Okayama, Japan
-Novosibirsk, Russia
-Gaza, Palestine
-Stuttgart, Germany
-Copiapó, Chile
-Miri, Malaysia
-Cheyenne, United States
-North Bay, Canada
-Boulder, United States
-Houston, United States
-Ufa, Russia
-Rockhampton, Australia
-Culiacán, Mexico
-Kandahar, Afghanistan
-Wilmington, United States
-Mumbai, India
-Gdynia, Poland
-Maebashi, Japan
-Adelaide, Australia
-Chongjin, North Korea
-Nukuʻalofa, Tonga
-Brikama, Gambia
-San José, Costa Rica
-Hanoi, Vietnam
-Patna, India
-Phoenix, United States
+Lusaka,_Zambia
+Garanhuns,_Brazil
+Campinas,_Brazil
+Birkirkara,_Malta
+Ny-Ålesund,_Norway
+Tijuana,_Mexico
+Kushiro,_Japan
+Magadan,_Russia
+Windhoek,_Namibia
+Seoul,_South_Korea
+Port_of_Spain,_Trinidad_and_Tobago
+Port_Louis,_Mauritius
+Ushuaia,_Argentina
+Ponta_Delgada,_Portugal
+Saskatoon,_Canada
+Hannover,_Germany
+Portsmouth,_United_Kingdom
+Niamey,_Niger
+Dushanbe,_Tajikistan
+Singapore,_Singapore
+Rosario,_Argentina
+Zürich,_Switzerland
+Riga,_Latvia
+Zaragoza,_Spain
+Mata-Utu,_France
+Sobral,_Brazil
+Plymouth,_United_Kingdom
+Udon_Thani,_Thailand
+Basse-Terre,_France
+Nagoya,_Japan
+Santa_Fe,_United_States
+Manama,_Bahrain
+Port_Blair,_India
+Hartford,_United_States
+San_Carlos_de_Bariloche,_Argentina
+New_Orleans,_United_States
+Santo_Domingo,_Dominican_Republic
+Bhisho,_South_Africa
+Kōbe,_Japan
+Nara,_Japan
+Puerto_Montt,_Chile
+Petropavlovsk-Kamchatsky,_Russia
+Sevilla,_Spain
+Kuching,_Malaysia
+Tapachula,_Mexico
+Sault_Ste._Marie,_Canada
+Moroni,_Comoros
+Port_Harcourt,_Nigeria
+Newcastle,_Australia
+Inverness,_United_Kingdom
+Kelowna,_Canada
+Okayama,_Japan
+Novosibirsk,_Russia
+Gaza,_Palestine
+Stuttgart,_Germany
+Copiapó,_Chile
+Miri,_Malaysia
+Cheyenne,_United_States
+North_Bay,_Canada
+Boulder,_United_States
+Houston,_United_States
+Ufa,_Russia
+Rockhampton,_Australia
+Culiacán,_Mexico
+Kandahar,_Afghanistan
+Wilmington,_United_States
+Mumbai,_India
+Gdynia,_Poland
+Maebashi,_Japan
+Adelaide,_Australia
+Chongjin,_North_Korea
+Nukuʻalofa,_Tonga
+Brikama,_Gambia
+San_José,_Costa_Rica
+Hanoi,_Vietnam
+Patna,_India
+Phoenix,_United_States
 Tainan,Taiwan
-Gloucester, United Kingdom
-Mosul, Iraq
-Trujillo, Peru
-Ōita, Japan
-Phuket, Thailand
-Seattle, United States
-Fukui, Japan
-Kemijärvi, Finland
-Vantaa, Finland
-Uberlândia, Brazil
-Khon Kaen, Thailand
-Polokwane, South Africa
-Campina Grande, Brazil
-Dover, United States
-Durban, South Africa
-Deadhorse, United States
-Serekunda, Gambia
-Raleigh, United States
-Augusta, United States
-Pudasjärvi, Finland
-Mandurah, Australia
-Addis Ababa, Ethiopia
-Querétaro, Mexico
-Asunción, Paraguay
-Jacksonville, United States
-Petrolina, Brazil
-Enugu, Nigeria
-Naypyidaw, Burma
-Zagreb, Croatia
-Sukhumi, Georgia
-Budapest, Hungary
-Kiruna, Sweden
-San Luis Potosí, Mexico
-Gangtok, India
-Canberra, Australia
-Edmonton, Canada
-Vaduz, Liechtenstein
-Teresina, Brazil
-Pittsburgh, United States
-Bangkok, Thailand
-La Serena, Chile
-Pretoria, South Africa
-Puerto Aisén, Chile
-Espoo, Finland
-Miami, United States
-Gaziantep, Turkey
-Bratislava, Slovakia
-Windsor, Canada
-Yokohama, Japan
-Port Vila, Vanuatu
-Buffalo, United States
-Luanda, Angola
-Chuí, Brazil
-Abidjan, Ivory Coast
-Nicosia, Cyprus
-Eskisehir, Turkey
-Poznań, Poland
-A Lưới, Việt Nam
-An Biên, Việt Nam
-An Dương, Việt Nam
-An Khê, Việt Nam
-An Lão, Việt Nam 
-An Lão, Việt Nam 
-An Minh, Việt Nam 
-An Nhơn, Việt Nam 
-An Phú, Việt Nam 
-Anh Sơn, Việt Nam
-Ayun Pa, Việt Nam
-Ân Thi, Việt Nam
-Ba Bể, Việt Nam
-Ba Chẽ, Việt Nam
-Ba Đình, Việt Nam
-Ba Tơ, Việt Nam
-Ba Tri, Việt Nam
-Ba Vì, Việt Nam
-Bà Rịa, Việt Nam
-Bá Thước, Việt Nam
-Bác Ái, Việt Nam
-Bạc Liêu, Việt Nam
-Bạch Long Vĩ, Việt Nam
-Bạch Thông, Việt Nam
-Bảo Lạc, Việt Nam
-Bảo Lâm, Việt Nam
-Bảo Lâm, Việt Nam
-Bảo Lộc, Việt Nam
-Bảo Thắng, Việt Nam
-Bảo Yên, Việt Nam
-Bát Xát, Việt Nam
-Bắc Bình, Việt Nam
-Bắc Giang, Việt Nam
-Bắc Hà, Việt Nam
-Bắc Kạn, Việt Nam
-Bắc Mê, Việt Nam
-Bắc Ninh, Việt Nam
-Bắc Quang, Việt Nam
-Bắc Sơn, Việt Nam
-Bắc Trà My, Việt Nam
-Bắc Yên, Việt Nam
-Bến Cát, Việt Nam
-Bến Cầu, Việt Nam
-Bến Lức, Việt Nam
-Bến Tre, Việt Nam
-Biên Hòa, Việt Nam
-Bỉm Sơn, Việt Nam
-Bình Chánh, Việt Nam
-Bình Đại, Việt Nam
-Bình Gia, Việt Nam
-Bình Giang, Việt Nam
-Bình Liêu, Việt Nam
-Bình Long, Việt Nam
-Bình Lục, Việt Nam
-Bình Minh, Việt Nam
-Bình Sơn, Việt Nam
-Bình Tân, Việt Nam
-Bình Thạnh, Việt Nam
-Bình Thuỷ, Việt Nam
-Bình Xuyên, Việt Nam
-Bố Trạch, Việt Nam
-Bù Đăng, Việt Nam
-Bù Đốp, Việt Nam
-Buôn Đôn, Việt Nam
-Buôn Ma Thuột, Việt Nam
-Cà Mau, Việt Nam
-Cai Lậy, Việt Nam
-Cái Bè, Việt Nam
-Cái Nước, Việt Nam
-Cái Răng, Việt Nam
-Cam Lộ, Việt Nam
-Cam Ranh, Việt Nam
-Can Lộc, Việt Nam
-Càng Long, Việt Nam
-Cao Bằng, Việt Nam
-Cao Lãnh, Việt Nam
-Cao Lãnh, Việt Nam
-Cao Lộc, Việt Nam
-Cao Phong, Việt Nam
-Cát Hải, Việt Nam
-Cát Tiên, Việt Nam
-Cẩm Giàng, Việt Nam
-Cẩm Mỹ, Việt Nam
-Cẩm Phả, Việt Nam
-Cẩm Thủy, Việt Nam
-Cẩm Xuyên, Việt Nam
-Cần Đước, Việt Nam
-Cần Giờ, Việt Nam
-Cần Giuộc, Việt Nam
-Cầu Giấy, Việt Nam
-Cầu Kè, Việt Nam
-Cầu Ngang, Việt Nam
-Châu Đốc, Việt Nam
-Châu Đức, Việt Nam
-Châu Phú, Việt Nam
-Châu Thành, Việt Nam
-Chi Lăng, Việt Nam
-Chí Linh, Việt Nam
-Chiêm Hoá, Việt Nam
-Chợ Đồn, Việt Nam
-Chợ Gạo, Việt Nam
-Chợ Lách, Việt Nam
-Chợ Mới, Việt Nam
-Chơn Thành, Việt Nam
-Chư Păh, Việt Nam
-Chư Prông, Việt Nam
-Chư Sê, Việt Nam
-Chương Mỹ, Việt Nam
-Con Cuông, Việt Nam
-Cô Tô, Việt Nam
-Côn Đảo, Việt Nam
-Cồn Cỏ, Việt Nam
-Cờ Đỏ, Việt Nam
-Cù Lao Dung, Việt Nam
-Củ Chi, Việt Nam
-Cư Jút, Việt Nam
-Cư M'gar, Việt Nam
-Cửa Lò, Việt Nam
-Dầu Tiếng, Việt Nam
-Di Linh, Việt Nam
-Dĩ An, Việt Nam
-Diên Khánh, Việt Nam
-Diễn Châu, Việt Nam
-Duy Tiên, Việt Nam
-Duy Xuyên, Việt Nam
-Duyên Hải, Việt Nam
-Dương Minh Châu, Việt Nam
-Đa Krông, Việt Nam
-Đà Bắc, Việt Nam
-Đà Lạt, Việt Nam
-Đạ Huoai, Việt Nam
-Đạ Tẻh, Việt Nam
-Đại Lộc, Việt Nam
-Đại Từ, Việt Nam
-Đak Đoa, Việt Nam
-Đak Pơ, Việt Nam
-Đan Phượng, Việt Nam
-Đăk Glei, Việt Nam
-Đăk Glong, Việt Nam
-Đăk Hà, Việt Nam
-Đăk Mil, Việt Nam
-Đăk R'Lấp, Việt Nam
-Đăk Song, Việt Nam
-Đăk Tô, Việt Nam
-Đầm Dơi, Việt Nam
-Đầm Hà, Việt Nam
-Đất Đỏ, Việt Nam
-Điện Bàn, Việt Nam
-Điện Biên, Việt Nam
-Điện Biên Đông, Việt Nam
-Điện Biên Phủ, Việt Nam
-Đình Lập, Việt Nam
-Định Hoá, Việt Nam
-Định Quán, Việt Nam
-Đoan Hùng, Việt Nam
-Đô Lương, Việt Nam
-Đồ Sơn, Việt Nam
-Đông Anh, Việt Nam
-Đông Giang, Việt Nam
-Đông Hà, Việt Nam
-Đông Hải, Việt Nam
-Đông Hưng, Việt Nam
-Đông Sơn, Việt Nam
-Đông Triều, Việt Nam
-Đồng Hới, Việt Nam
-Đồng Hỷ, Việt Nam
-Đồng Phù, Việt Nam
-Đồng Văn, Việt Nam
-Đồng Xoài, Việt Nam
-Đồng Xuân, Việt Nam
-Đống Đa, Việt Nam
+Gloucester,_United_Kingdom
+Mosul,_Iraq
+Trujillo,_Peru
+Ōita,_Japan
+Phuket,_Thailand
+Seattle,_United_States
+Fukui,_Japan
+Kemijärvi,_Finland
+Vantaa,_Finland
+Uberlândia,_Brazil
+Khon_Kaen,_Thailand
+Polokwane,_South_Africa
+Campina_Grande,_Brazil
+Dover,_United_States
+Durban,_South_Africa
+Deadhorse,_United_States
+Serekunda,_Gambia
+Raleigh,_United_States
+Augusta,_United_States
+Pudasjärvi,_Finland
+Mandurah,_Australia
+Addis_Ababa,_Ethiopia
+Querétaro,_Mexico
+Asunción,_Paraguay
+Jacksonville,_United_States
+Petrolina,_Brazil
+Enugu,_Nigeria
+Naypyidaw,_Burma
+Zagreb,_Croatia
+Sukhumi,_Georgia
+Budapest,_Hungary
+Kiruna,_Sweden
+San_Luis_Potosí,_Mexico
+Gangtok,_India
+Canberra,_Australia
+Edmonton,_Canada

@@ -1,348 +1,348 @@
-﻿AI engineer
-Machine Leaning Professional
-Block-chain Professinal
-học sinh
-sinh viên
-nông dân
-thợ xây
-quân nhân
-binh nhất
-giám đốc kĩ thuật
-giám đốc điều hành
-giám đốc công nghệ
-giám đốc bộ phận
-giám đốc khu vực
-giám đốc
-trưởng phòng bộ phận
-trường phòng
-trưởng phòng đầu tư
-giám đốc kế hoạch
-giám đốc marketing
-nhân viên bán hàng
-nhân viên sale
-nhân viên phục vụ
-nhân viên
-nhân viên quản lý
-tiếp viên hàng không
-doanh nhân
-nhà đầu tư
-nhà đầu cơ
-kĩ sư 
-kiến trúc sư
-lập trình viên
-giáo viên
-giảng viên
-trợ lý
-trợ giảng
-y tá
-tiến sĩ
-thủ quỹ
-quản công
-đốc công
-công an
-nhạc sĩ
-ca sĩ
-nhà thiết kế
-dược sĩ
-y sĩ
-cấp dưỡng
-nhân viên lễ tân
-nhân vien hậu cần
-tổng thống
-thủ tướng
-buôn bán
-tiểu thương
-kĩ sư hóa dầu
-kĩ sư hóa học
-giáo viên tiểu học
-giáo viên cấp 3
-giáo viên cấp 2
-nhân viên massage
-giám sát viên
-kiểm sát
-luật sư
-nhà phân tích
-họa sĩ
-bảo vệ
-bảo an
-vệ sĩ
-đầu bếp
-phụ bếp
-kĩ sư điện
-kĩ sư hệ thống
-kĩ sư kiểm định
-kĩ sư phân tích
-kĩ sư điện tử
-kĩ sư vận hành
-nhân viên thiết kế đồ họa
-nhân viên bán thời gian
-nhà vật lý học
-nhà vật lý lý thuyết
-nhà toán học
-kĩ sư tự động hóa
-nhân viên marketing
-nhà văn
-nhà báo
-giám đốc đài truyền hình
-giám đốc ngân hàng
-trưởng phòng hành chính
-trưởng phòng nhân sư
-giám đốc hành chính 
-giám đốc nhân sự
-lái xe
-nhân viên lái taxi
-electrical engineer
-truck driver
+﻿AI_engineer
+Machine_Leaning_Professional
+Block-chain_Professinal
+học_sinh
+sinh_viên
+nông_dân
+thợ_xây
+quân_nhân
+binh_nhất
+giám_đốc_kĩ_thuật
+giám_đốc_điều_hành
+giám_đốc_công_nghệ
+giám_đốc_bộ_phận
+giám_đốc_khu_vực
+giám_đốc
+trưởng_phòng_bộ_phận
+trường_phòng
+trưởng_phòng_đầu_tư
+giám_đốc_kế_hoạch
+giám_đốc_marketing
+nhân_viên_bán_hàng
+nhân_viên_sale
+nhân_viên_phục_vụ
+nhân_viên
+nhân_viên_quản_lý
+tiếp_viên_hàng_không
+doanh_nhân
+nhà_đầu_tư
+nhà_đầu_cơ
+kĩ_sư_
+kiến_trúc_sư
+lập_trình_viên
+giáo_viên
+giảng_viên
+trợ_lý
+trợ_giảng
+y_tá
+tiến_sĩ
+thủ_quỹ
+quản_công
+đốc_công
+công_an
+nhạc_sĩ
+ca_sĩ
+nhà_thiết_kế
+dược_sĩ
+y_sĩ
+cấp_dưỡng
+nhân_viên_lễ_tân
+nhân_vien_hậu_cần
+tổng_thống
+thủ_tướng
+buôn_bán
+tiểu_thương
+kĩ_sư_hóa_dầu
+kĩ_sư_hóa_học
+giáo_viên_tiểu_học
+giáo_viên_cấp_3
+giáo_viên_cấp_2
+nhân_viên_massage
+giám_sát_viên
+kiểm_sát
+luật_sư
+nhà_phân_tích
+họa_sĩ
+bảo_vệ
+bảo_an
+vệ_sĩ
+đầu_bếp
+phụ_bếp
+kĩ_sư_điện
+kĩ_sư_hệ_thống
+kĩ_sư_kiểm_định
+kĩ_sư_phân_tích
+kĩ_sư_điện_tử
+kĩ_sư_vận_hành
+nhân_viên_thiết_kế_đồ_họa
+nhân_viên_bán_thời_gian
+nhà_vật_lý_học
+nhà_vật_lý_lý_thuyết
+nhà_toán_học
+kĩ_sư_tự_động_hóa
+nhân_viên_marketing
+nhà_văn
+nhà_báo
+giám_đốc_đài_truyền_hình
+giám_đốc_ngân_hàng
+trưởng_phòng_hành_chính
+trưởng_phòng_nhân_sư
+giám_đốc_hành_chính_
+giám_đốc_nhân_sự
+lái_xe
+nhân_viên_lái_taxi
+electrical_engineer
+truck_driver
 coach
 epidemiologist
-customer service representative
-computer programmer
+customer_service_representative
+computer_programmer
 artist
 writer
 photographer
 musician
-automotive mechanic
-cost estimator
-computer support specialist
-computer hardware engineer
-computer systems administrator
+automotive_mechanic
+cost_estimator
+computer_support_specialist
+computer_hardware_engineer
+computer_systems_administrator
 artist
-marriage & family therapist
-registered nurse
+marriage_&_family_therapist
+registered_nurse
 mathematician
-recreation & fitness worker
+recreation_&_fitness_worker
 psychologist
-recreational therapist
+recreational_therapist
 dentist
 judge
-environmental scientist
+environmental_scientist
 surveyor
-software developer
+software_developer
 housekeeper
-it manager
-school counselor
+it_manager
+school_counselor
 dentist
 pharmacist
-urban planner
+urban_planner
 cashier
-computer systems administrator
+computer_systems_administrator
 mathematician
 microbiologist
-interpreter & translator
-high school teacher
+interpreter_&_translator
+high_school_teacher
 plumber
-event planner
+event_planner
 economist
 epidemiologist
-occupational therapist
-clinical laboratory technician
+occupational_therapist
+clinical_laboratory_technician
 surveyor
-budget analyst
-budget analyst
+budget_analyst
+budget_analyst
 judge
 accountant
-physical therapist
-loan officer
+physical_therapist
+loan_officer
 musician
-auto mechanic
-food scientist
+auto_mechanic
+food_scientist
 drafter
 physicist
 firefighter
-respiratory therapist
-recreational therapist
-systems analyst
+respiratory_therapist
+recreational_therapist
+systems_analyst
 physician
-medical secretary
-respiratory therapist
-maintenance & repair worker
-physical therapist
+medical_secretary
+respiratory_therapist
+maintenance_&_repair_worker
+physical_therapist
 paramedic
-teacher assistant
-substance abuse counselor
-registered nurse
-mechanical engineer
-civil engineer
-professional athlete
+teacher_assistant
+substance_abuse_counselor
+registered_nurse
+mechanical_engineer
+civil_engineer
+professional_athlete
 telemarketer
-database administrator
+database_administrator
 architect
-massage therapist
-truck driver
+massage_therapist
+truck_driver
 zoologist
 reporter
-sports coach
+sports_coach
 psychologist
 receptionist
-middle school teacher
-court reporter
-high school teacher
+middle_school_teacher
+court_reporter
+high_school_teacher
 painter
-art director
-attractive, with a lot of yellow
+art_director
+attractive,_with_a_lot_of_yellow
 dancer
-occupational therapist
-landscape architect
+occupational_therapist
+landscape_architect
 zoologist
-real estate agent
-radiologic technologist
-computer programmer
+real_estate_agent
+radiologic_technologist
+computer_programmer
 mason
-recreation & fitness worker
-diagnostic medical sonographer
-hr specialist
+recreation_&_fitness_worker
+diagnostic_medical_sonographer
+hr_specialist
 carpenter
-radiologic technologist
-elementary school teacher
+radiologic_technologist
+elementary_school_teacher
 janitor
-security guard
-bus driver
+security_guard
+bus_driver
 drafter
-customer service representative
-automotive mechanic
-fitness trainer
-loan officer
+customer_service_representative
+automotive_mechanic
+fitness_trainer
+loan_officer
 cashier
 hairdresser
-artistic and strange, with a lot of purple and gray
+artistic_and_strange,_with_a_lot_of_purple_and_gray
 janitor
 lawyer
 statistician
-elementary school teacher
-school psychologist
+elementary_school_teacher
+school_psychologist
 secretary
-social worker
-preschool teacher
-art director
-web developer
+social_worker
+preschool_teacher
+art_director
+web_developer
 logistician
 pharmacist
 dancer
-computer systems analyst
-executive assistant
-desktop publisher
-systems analyst
+computer_systems_analyst
+executive_assistant
+desktop_publisher
+systems_analyst
 electrician
 chef
-construction manager
+construction_manager
 farmer
 editor
-sports coach
+sports_coach
 referee
-medical assistant
-personal care aide
+medical_assistant
+personal_care_aide
 designer
-childcare worker
-electrical engineer
-maintenance & repair worker
+childcare_worker
+electrical_engineer
+maintenance_&_repair_worker
 electrician
-human resources assistant
-auto mechanic
+human_resources_assistant
+auto_mechanic
 physician
 lawyer
 educator
 hairdresser
-environmental scientist
+environmental_scientist
 designer
 actor
-construction manager
+construction_manager
 firefighter
 reporter
 carpenter
 librarian
-clinical laboratory technician
-teacher assistant
-dental hygienist
+clinical_laboratory_technician
+teacher_assistant
+dental_hygienist
 paramedic
-marketing manager
-public relations specialist
-real estate agent
+marketing_manager
+public_relations_specialist
+real_estate_agent
 paralegal
-artistic and risque, with a lot of black and green
-social worker
-attractive, with a lot of orange
-civil engineer
+artistic_and_risque,_with_a_lot_of_black_and_green
+social_worker
+attractive,_with_a_lot_of_orange
+civil_engineer
 plumber
-marriage & family therapist
-compliance officer
-desktop publisher
-professional athlete
-financial advisor
-executive assistant
-interpreter & translator
-market research analyst
-medical secretary
-compliance officer
-computer hardware engineer
+marriage_&_family_therapist
+compliance_officer
+desktop_publisher
+professional_athlete
+financial_advisor
+executive_assistant
+interpreter_&_translator
+market_research_analyst
+medical_secretary
+compliance_officer
+computer_hardware_engineer
 receptionist
-marketing manager
+marketing_manager
 painter
-landscaper & groundskeeper
+landscaper_&_groundskeeper
 actuary
 writer
-web developer
+web_developer
 anthropologist
 anthropologist
-landscaper & groundskeeper
-event planner
-speech-language pathologist
-school psychologist
-food scientist
-computer systems analyst
-it manager
+landscaper_&_groundskeeper
+event_planner
+speech-language_pathologist
+school_psychologist
+food_scientist
+computer_systems_analyst
+it_manager
 telemarketer
 accountant
-market research analyst
-speech-language pathologist
-college professor
+market_research_analyst
+speech-language_pathologist
+college_professor
 educator
-insurance agent
-patrol officer
-childcare worker
-insurance agent
-computer support specialist
-landscape architect
+insurance_agent
+patrol_officer
+childcare_worker
+insurance_agent
+computer_support_specialist
+landscape_architect
 secretary
 microbiologist
 logistician
-urban planner
-police officer
-bookkeeping clerk
+urban_planner
+police_officer
+bookkeeping_clerk
 coach
-personal care aide
-school counselor
+personal_care_aide
+school_counselor
 architect
-bus driver
-software developer
-hr specialist
-fitness trainer
-database administrator
+bus_driver
+software_developer
+hr_specialist
+fitness_trainer
+database_administrator
 physicist
 mason
-bookkeeping clerk
-substance abuse counselor
-medical assistant
-human resources assistant
+bookkeeping_clerk
+substance_abuse_counselor
+medical_assistant
+human_resources_assistant
 economist
-court reporter
-security guard
+court_reporter
+security_guard
 chemist
 statistician
 chemist
-preschool teacher
-mechanical engineer
+preschool_teacher
+mechanical_engineer
 farmer
-dental hygienist
+dental_hygienist
 chef
-diagnostic medical sonographer
+diagnostic_medical_sonographer
 historian
 actuary
-financial advisor
-public relations specialist
+financial_advisor
+public_relations_specialist
 actor
-patrol officer
+patrol_officer
 paralegal
-middle school teacher
+middle_school_teacher
 housekeeper
 historian
 attractive
@@ -350,9 +350,9 @@ librarian
 editor
 referee
 photographer
-college professor
-police officer
+college_professor
+police_officer
 veterinarian
-massage therapist
+massage_therapist
 veterinarian
-cost estimator
+cost_estimator

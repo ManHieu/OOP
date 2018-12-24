@@ -13,24 +13,25 @@ public class App {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		Database db = new Database(100000, 200000);
+		Database db = new Database(50000, 60000);
 		RepositoryConnection conn = db.getConn();
 		
-		String query = "select ?o "
-				+ "where {"
-				+"<http://example.com/virtuoso#1/Person/PERSON1> <http://example.com/virtuoso#1/Description/> ?o"
-				+ "}";
+		String query = "select ?o, ?s where {"
+				+ "<http://example.com/virtuoso#1/Person/PERSON1> <http://example.com/virtuoso#1/Description/> ?o."
+				+ "?s <http://example.com/virtuoso#1/Age/> 20}";
+		
 		long t1 = System.currentTimeMillis();
 		TupleQuery tupleQuery = conn.prepareTupleQuery(QueryLanguage.SPARQL, query);
 		try {
-
+			
 			TupleQueryResult result = tupleQuery.evaluate();
+			long t2 = System.currentTimeMillis();
 			while (result.hasNext()) {
 
 				BindingSet bindingSet = result.next();
 
 				Value v1 = bindingSet.getValue("o");
-				long t2 = System.currentTimeMillis();
+				
 				
 				System.out.println(v1);
 				System.out.println(t2 - t1);

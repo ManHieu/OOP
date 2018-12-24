@@ -1,94 +1,94 @@
-﻿gặp mặt
-là anh
-là em
-là cô
-là chú
-là dì
-là cậu 
-là bố
-là mẹ
-là con
-là mợ
-là ông 
-là bà
-là chị
-là thím
-là cháu
-là bạn
-có họ với
-đi chơi với
-đi học với
-đi học cùng
-đi chơi cùng
-đi du lịch với
-đi du lịch cùng
-đi nghỉ mát với
-đi nghỉ mát cùng
-tới thăm
-đến thăm
-làm việc cùng 
-làm việc với
-có họ với
-quan tâm tới
-quan tâm đến
-sống cùng với
-ở cùng với
-cùng quê với
-cùng lớp với
-cùng trường với
-đi cùng 
-nổi giận với
-lên mặt với
-thưởng cho
-thỏa thuận với
-thỏa thuận cùng
-kí hiệp ước với
-ước định với
-qua đêm cùng
-qua đêm với
-cãi nhau với
-đánh nhau với
-cãi lộn với
-trở mặt với
+﻿gặp_mặt
+là_anh
+là_em
+là_cô
+là_chú
+là_dì
+là_cậu
+là_bố
+là_mẹ
+là_con
+là_mợ
+là_ông
+là_bà
+là_chị
+là_thím
+là_cháu
+là_bạn
+có_họ_với
+đi_chơi_với
+đi_học_với
+đi_học_cùng
+đi_chơi_cùng
+đi_du_lịch_với
+đi_du_lịch_cùng
+đi_nghỉ_mát_với
+đi_nghỉ_mát_cùng
+tới_thăm
+đến_thăm
+làm_việc_cùng
+làm_việc_với
+có_họ_với
+quan_tâm_tới
+quan_tâm_đến
+sống_cùng_với
+ở_cùng_với
+cùng_quê_với
+cùng_lớp_với
+cùng_trường_với
+đi_cùng_
+nổi_giận_với
+lên_mặt_với
+thưởng_cho
+thỏa_thuận_với
+thỏa_thuận_cùng
+kí_hiệp_ước_với
+ước_định_với
+qua_đêm_cùng
+qua_đêm_với
+cãi_nhau_với
+đánh_nhau_với
+cãi_lộn_với
+trở_mặt_với
 yêu
 thích
 quý
-bó tay với
+bó_tay_với
 giận
 hờn
-ghen với
-tức giận với
-chia tay
-lên mặt với
+ghen_với
+tức_giận_với
+chia_tay
+lên_mặt_với
 ghét
-chê 
-cắt tóc cho
-nấu ăn cho
-rửa chân cho
-rửa bát hộ
-làm bài hộ
-làm bài cho
-nhắc bài cho
-làm việc cho
-làm việc hộ
+chê_
+cắt_tóc_cho
+nấu_ăn_cho
+rửa_chân_cho
+rửa_bát_hộ
+làm_bài_hộ
+làm_bài_cho
+nhắc_bài_cho
+làm_việc_cho
+làm_việc_hộ
 lai
 chở
-mừng cho
-đánh bài với
-chơi cùng
-chơi với
-đánh cờ cùng
-đánh cờ với
-chơi cầu lông với
-đá bóng cùng
-đi bão cùng
-đi bão với
-đá bóng với
-đi nghỉ dưỡng cùng
-đi nghỉ dưỡng với
-kết bạn với
-kết bạn cùng
-chơi thân với
-làm bạn với
-làm bạn cùng
-chia sẻ với
+mừng_cho
+đánh_bài_với
+chơi_cùng
+chơi_với
+đánh_cờ_cùng
+đánh_cờ_với
+chơi_cầu_lông_với
+đá_bóng_cùng
+đi_bão_cùng
+đi_bão_với
+đá_bóng_với
+đi_nghỉ_dưỡng_cùng
+đi_nghỉ_dưỡng_với
+kết_bạn_với
+kết_bạn_cùng
+chơi_thân_với
+làm_bạn_với
+làm_bạn_cùng
+chia_sẻ_với
