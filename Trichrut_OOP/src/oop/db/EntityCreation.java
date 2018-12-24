@@ -38,6 +38,8 @@ public class EntityCreation extends RDFSchema{
 		model.add(personIRI, this.descrip, descrip);
 		model.add(personIRI, this.link, link);
 		
+		System.out.println(model);
+		
 		return model;
 	}
 	public LinkedHashModel createModelLocal(Location local) {
@@ -55,6 +57,8 @@ public class EntityCreation extends RDFSchema{
 		model.add(localIRI, this.descrip, descrip);
 		model.add(localIRI, this.link, link);
 		
+		System.out.println(model);
+		
 		return model;
 	}
 	public LinkedHashModel createModelCountry(Country country) {
@@ -70,6 +74,8 @@ public class EntityCreation extends RDFSchema{
 		model.add(countryIRI, this.descrip, descrip);
 		model.add(countryIRI, this.link, link);
 		
+		System.out.println(model);
+		
 		return model;
 	}
 	public LinkedHashModel createModelEvent(Event ev) {
@@ -84,6 +90,8 @@ public class EntityCreation extends RDFSchema{
 		model.add(eventIRI, this.descrip, descrip);
 		model.add(eventIRI, this.link, link);
 		
+		System.out.println(model);
+		
 		return model;
 	}
 	public LinkedHashModel createModelTime(Time time) {
@@ -97,6 +105,8 @@ public class EntityCreation extends RDFSchema{
 		model.add(timeIRI, this.name, name);
 		model.add(timeIRI, this.descrip, descrip);
 		model.add(timeIRI, this.link, link);
+		
+		System.out.println(model);
 		
 		return model;
 	}
@@ -117,6 +127,8 @@ public class EntityCreation extends RDFSchema{
 		model.add(organIRI, this.estaYear, estaYear);
 		model.add(organIRI, this.descrip, descrip);
 		model.add(organIRI, this.link, link);
+		
+		System.out.println(model);
 		
 		return model;
 	}

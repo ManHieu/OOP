@@ -13,6 +13,7 @@ public class Query extends RDFSchema {
 		// TODO Auto-generated constructor stub
 		super();
 		query = new ArrayList<>();
+		this.setQuery();
 	}
 	public ArrayList<String> getQuery() {
 		return query;
@@ -66,7 +67,7 @@ public class Query extends RDFSchema {
 		this.query.add(query9);
 
 		String query10 = "SELECT ?s WHERE{"
-				+ " ?s <" + this.getName() + " > " + vf.createLiteral("Nguyễn_Văn_Có") + "}" ;
+				+ " ?s <" + this.getName() + "> " + vf.createLiteral("Nguyễn_Văn_Có") + "}" ;
 
 		this.query.add(query10);
 
