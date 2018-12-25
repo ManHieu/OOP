@@ -28,16 +28,13 @@ public class Query extends RDFSchema {
 		this.query.add(query1);
 
 		IRI relateIRI = vf.createIRI(this.getRelation().toString(),"tổ_chức");
-		Literal name = vf.createLiteral("Đông_Anh,_Việt_Nam");
-		String query2 = "SELECT ?event WHERE{" + 
-				"?s <"+this.getName()+"> " + name +" ."
+		String query2 = "SELECT ?event WHERE{" 
 				+"?s <" + relateIRI + "> ?event" +
-				"}LIMIT 1";
+				"}";
 		this.query.add(query2);
 
 		String query3 = "SELECT ?location WHERE{"
-				+ "?s <" + this.getName() + "> " + vf.createLiteral("Food&Hotel_Hanoi")
-				+ " . ?s <" + vf.createIRI(this.getRelation().toString(), "tổ_chức_tại") + "> ?location}";
+				+ " ?s <" + vf.createIRI(this.getRelation().toString(), "tổ_chức_tại") + "> ?location}";
 		this.query.add(query3);
 
 		String query4 = "SELECT ?s WHERE{"
